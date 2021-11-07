@@ -2,6 +2,10 @@
 
 Personal learning progression.
 
+**C# Tutorials**
+
+1. [ ] C# - Programming Language (Tutorial)
+
 **Dart Tutorials**
 
 1. [ ] Dart Programming in 4 hours | Full beginners tutorial
