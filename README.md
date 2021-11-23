@@ -39,6 +39,7 @@ Personal learning progression.
 **Python Tutorials**
 
 1. [ ] Learn Python - Full Course for Beginners (Tutorial) [#4](https://github.com/SyafiqHadzir/Personal-Milestone/issues/4)
+2. [x] Python Digital Clock & Analog Clock [#23](https://github.com/SyafiqHadzir/Personal-Milestone/issues/23)
 
 ## Reading List
 
