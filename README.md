@@ -17,11 +17,11 @@ Personal learning progression.
 **JavaScript Tutorials**
 
 1. [ ] JavaScript - Programming Language (Tutorial) [#6](https://github.com/SyafiqHadzir/Personal-Milestone/issues/6)
-2. [x] JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour
-3. [x] JS for Testers
-4. [x] Learn Full E2E Testing Using Cypress | 2020 Update
+2. [x] JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour [#1](https://github.com/SyafiqHadzir/Personal-Milestone/issues/1)
+3. [x] JS for Testers [#2](https://github.com/SyafiqHadzir/Personal-Milestone/issues/2)
+4. [x] Learn Full E2E Testing Using Cypress | 2020 Update [#8](https://github.com/SyafiqHadzir/Personal-Milestone/issues/8)
 5. [ ] Tutorial: Learn Web Scraping with NodeJs in 2021 (Udemy) [#12](https://github.com/SyafiqHadzir/Personal-Milestone/issues/12)
-6. [x] Unit testing with Mocha and Chai
+6. [x] Unit testing with Mocha and Chai [#9](https://github.com/SyafiqHadzir/Personal-Milestone/issues/9)
 7. [ ] VueJS 3 Tutorial for Beginners [#17](https://github.com/SyafiqHadzir/Personal-Milestone/issues/17)
 
 ## Reading List
