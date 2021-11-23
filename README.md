@@ -36,6 +36,10 @@ Personal learning progression.
 6. [x] Unit testing with Mocha and Chai [#9](https://github.com/SyafiqHadzir/Personal-Milestone/issues/9)
 7. [ ] VueJS 3 Tutorial for Beginners [#17](https://github.com/SyafiqHadzir/Personal-Milestone/issues/17)
 
+**Python Tutorials**
+
+1. [ ] Learn Python - Full Course for Beginners (Tutorial) [#4](https://github.com/SyafiqHadzir/Personal-Milestone/issues/4)
+
 ## Reading List
 
 1. [ ] Cormen, T. H. et al. _Introduction to Algorithms_. 2009. [#18](https://github.com/SyafiqHadzir/Personal-Milestone/issues/18)
