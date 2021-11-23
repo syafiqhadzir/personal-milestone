@@ -37,6 +37,10 @@ Personal learning progression.
 1. [ ] Learn Python - Full Course for Beginners (Tutorial) [#4](https://github.com/SyafiqHadzir/Personal-Milestone/issues/4)
 2. [x] Python Digital Clock & Analog Clock [#23](https://github.com/SyafiqHadzir/Personal-Milestone/issues/23)
 
+**PHP Tutorials**
+
+1. [ ] Learn PHP The Right Way: Full PHP Tutorial For Beginner & Advanced [#7](https://github.com/SyafiqHadzir/Personal-Milestone/issues/7)
+
 **TestOps Tutorials**
 
 1. [x] JS for Testers [#2](https://github.com/SyafiqHadzir/Personal-Milestone/issues/2)
