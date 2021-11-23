@@ -20,6 +20,12 @@ Personal learning progression.
 2. [ ] Flutter Course - Full Tutorial for Beginners (Build iOS and Android Apps) [#5](https://github.com/SyafiqHadzir/Personal-Milestone/issues/5)
 3. [ ] Mobile app onboarding, Login, Signup page with Flutter. [#16](https://github.com/SyafiqHadzir/Personal-Milestone/issues/16)
 
+**DevOps & Networking**
+
+1. [x] Git Tutorial for Beginners: Learn Git in 1 Hour [#10](https://github.com/SyafiqHadzir/Personal-Milestone/issues/10)
+2. [ ] Tutorial: Reverse Engineering, Debugging and Malware Analysis - 2021 (Udemy) [#14](https://github.com/SyafiqHadzir/Personal-Milestone/issues/14)
+3. [ ] The Complete Wireshark Course Beginner To Advanced (Complete Course) [#13](https://github.com/SyafiqHadzir/Personal-Milestone/issues/13)
+
 **JavaScript Tutorials**
 
 1. [ ] JavaScript - Programming Language (Tutorial) [#6](https://github.com/SyafiqHadzir/Personal-Milestone/issues/6)
