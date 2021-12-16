@@ -45,6 +45,7 @@ Personal learning progression.
 ### **PHP Tutorials**
 
 1. [ ] Learn PHP The Right Way: Full PHP Tutorial For Beginner & Advanced [#7](https://github.com/SyafiqHadzir/Personal-Milestone/issues/7)
+2. [ ] PHP - Programming Language | Tutorial [#29](https://github.com/SyafiqHadzir/Personal-Milestone/issues/29)
 
 ### **TestOps Tutorials**
 
