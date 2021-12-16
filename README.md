@@ -22,7 +22,8 @@ Personal learning progression.
 
 1. [x] Dart Programming in 4 hours | Full beginners tutorial [#3](https://github.com/SyafiqHadzir/Personal-Milestone/issues/3)
 2. [ ] Flutter Course - Full Tutorial for Beginners (Build iOS and Android Apps) [#5](https://github.com/SyafiqHadzir/Personal-Milestone/issues/5)
-3. [ ] Mobile app onboarding, Login, Signup page with Flutter. [#16](https://github.com/SyafiqHadzir/Personal-Milestone/issues/16)
+3. [ ] Flutter Tutorial for Beginners [#27](https://github.com/SyafiqHadzir/Personal-Milestone/issues/27)
+4. [ ] Mobile app onboarding, Login, Signup page with Flutter. [#16](https://github.com/SyafiqHadzir/Personal-Milestone/issues/16)
 
 ### **DevOps & Networking**
 
