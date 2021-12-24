@@ -13,7 +13,7 @@ Personal learning progression.
 1. [ ] CSS - Style Your Website (Tutorial) [#24](https://github.com/SyafiqHadzir/Personal-Milestone/issues/24)
 2. [ ] CSS Zero to Hero (Complete Course) [#11](https://github.com/SyafiqHadzir/Personal-Milestone/issues/11)
 3. [x] Less - Supercharge Your CSS (Tutorial) [#22](https://github.com/SyafiqHadzir/Personal-Milestone/issues/22)
-4. [ ] Pug Template Engine - Full Tutorial for Beginners [#28](https://github.com/SyafiqHadzir/Personal-Milestone/issues/28)
+4. [x] Pug Template Engine - Full Tutorial for Beginners [#28](https://github.com/SyafiqHadzir/Personal-Milestone/issues/28)
 5. [x] Sass & Scss - Supercharge Your CSS (Tutorial) [#21](https://github.com/SyafiqHadzir/Personal-Milestone/issues/21)
 6. [ ] Sass Tutorial for Beginners - CSS With Superpowers [#26](https://github.com/SyafiqHadzir/Personal-Milestone/issues/26)
 7. [ ] Tailwind CSS: From Zero to Production [#25](https://github.com/SyafiqHadzir/Personal-Milestone/issues/25)
