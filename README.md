@@ -63,3 +63,4 @@ Personal learning progression.
 1. [ ] Cormen, T. H. et al. _Introduction to Algorithms_. 2009. [#18](https://github.com/SyafiqHadzir/Personal-Milestone/issues/18)
 2. [ ] Stuttard, D. & Pinto, M. _The Web Application Hacker's Handbook_. 2011. [#19](https://github.com/SyafiqHadzir/Personal-Milestone/issues/19)
 3. [ ] Dostálek, L. & Kabelová, A. _Understanding TCP/IP: A Clear and Comprehensive Guide to TCP/IP Protocols_. 2006. [#20](https://github.com/SyafiqHadzir/Personal-Milestone/issues/20)
+4. [ ] Osmani, A. _Learning JavaScript Design Patterns_. 2012. [#45](https://github.com/SyafiqHadzir/Personal-Milestone/issues/45)
