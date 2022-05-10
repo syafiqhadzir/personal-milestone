@@ -34,9 +34,12 @@ Personal learning progression.
 
 ### **JavaScript Tutorials**
 
-1. [x] JavaScript - Programming Language (Tutorial) [#6](https://github.com/SyafiqHadzir/Personal-Milestone/issues/6)
-2. [x] JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour [#1](https://github.com/SyafiqHadzir/Personal-Milestone/issues/1)
-3. [ ] VueJS 3 Tutorial for Beginners [#17](https://github.com/SyafiqHadzir/Personal-Milestone/issues/17)
+1. [ ] GatsbyJS Tutorial [#44](https://github.com/SyafiqHadzir/Personal-Milestone/issues/44)
+2. [x] JavaScript - Programming Language (Tutorial) [#6](https://github.com/SyafiqHadzir/Personal-Milestone/issues/6)
+3. [x] JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour [#1](https://github.com/SyafiqHadzir/Personal-Milestone/issues/1)
+4. [ ] Svelte Tutorial for Beginners [#43](https://github.com/SyafiqHadzir/Personal-Milestone/issues/43)
+5. [x] TypeScript Tutorial [#35](https://github.com/SyafiqHadzir/Personal-Milestone/issues/35)
+6. [ ] VueJS 3 Tutorial for Beginners [#17](https://github.com/SyafiqHadzir/Personal-Milestone/issues/17)
 
 ### **Python Tutorials**
 
