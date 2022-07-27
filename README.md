@@ -29,9 +29,13 @@ Personal learning progression.
 
 ### **DevOps & Networking**
 
-1. [x] Git Tutorial for Beginners: Learn Git in 1 Hour [#10](https://github.com/SyafiqHadzir/Personal-Milestone/issues/10)
-2. [ ] Tutorial: Reverse Engineering, Debugging and Malware Analysis - 2021 (Udemy) [#14](https://github.com/SyafiqHadzir/Personal-Milestone/issues/14)
-3. [ ] The Complete Wireshark Course Beginner To Advanced (Complete Course) [#13](https://github.com/SyafiqHadzir/Personal-Milestone/issues/13)
+1. [ ] Docker Tutorial for Beginners [#34](https://github.com/SyafiqHadzir/Personal-Milestone/issues/34)
+2. [ ] Git & GitHub Tutorial for Beginners [#33](https://github.com/SyafiqHadzir/Personal-Milestone/issues/33)
+3. [x] Git Tutorial for Beginners: Learn Git in 1 Hour [#10](https://github.com/SyafiqHadzir/Personal-Milestone/issues/10)
+4. [ ] HCIA (Datacom) v1.0 [#47](https://github.com/SyafiqHadzir/Personal-Milestone/issues/47)
+5. [ ] Kubernetes Tutorial for Beginners [#42](https://github.com/SyafiqHadzir/Personal-Milestone/issues/42)
+6. [ ] Tutorial: Reverse Engineering, Debugging and Malware Analysis - 2021 (Udemy) [#14](https://github.com/SyafiqHadzir/Personal-Milestone/issues/14)
+7. [ ] The Complete Wireshark Course Beginner To Advanced (Complete Course) [#13](https://github.com/SyafiqHadzir/Personal-Milestone/issues/13)
 
 ### **JavaScript Tutorials**
 
