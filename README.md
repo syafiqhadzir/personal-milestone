@@ -10,7 +10,7 @@ Personal learning progression.
 
 ### **CSS & HTML Tutorials**
 
-1. [ ] CSS - Style Your Website (Tutorial) [#24](https://github.com/SyafiqHadzir/Personal-Milestone/issues/24)
+1. [x] CSS - Style Your Website (Tutorial) [#24](https://github.com/SyafiqHadzir/Personal-Milestone/issues/24)
 2. [ ] CSS Zero to Hero (Complete Course) [#11](https://github.com/SyafiqHadzir/Personal-Milestone/issues/11)
 3. [x] Less - Supercharge Your CSS (Tutorial) [#22](https://github.com/SyafiqHadzir/Personal-Milestone/issues/22)
 4. [x] PostCSS Tutorial [#30](https://github.com/SyafiqHadzir/Personal-Milestone/issues/30)
