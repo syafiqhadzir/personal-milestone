@@ -39,12 +39,16 @@ Personal learning progression.
 
 ### **JavaScript Tutorials**
 
-1. [ ] GatsbyJS Tutorial [#44](https://github.com/SyafiqHadzir/Personal-Milestone/issues/44)
-2. [x] JavaScript - Programming Language (Tutorial) [#6](https://github.com/SyafiqHadzir/Personal-Milestone/issues/6)
-3. [x] JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour [#1](https://github.com/SyafiqHadzir/Personal-Milestone/issues/1)
-4. [ ] Svelte Tutorial for Beginners [#43](https://github.com/SyafiqHadzir/Personal-Milestone/issues/43)
-5. [x] TypeScript Tutorial [#35](https://github.com/SyafiqHadzir/Personal-Milestone/issues/35)
-6. [ ] VueJS 3 Tutorial for Beginners [#17](https://github.com/SyafiqHadzir/Personal-Milestone/issues/17)
+1. [ ] Coffee Script Tutorial [#50](https://github.com/SyafiqHadzir/Personal-Milestone/issues/50)
+2. [ ] GatsbyJS Crash Course [#48](https://github.com/SyafiqHadzir/Personal-Milestone/issues/48)
+3. [ ] GatsbyJS Tutorial [#44](https://github.com/SyafiqHadzir/Personal-Milestone/issues/44)
+4. [x] Gatsby Tutorial for Beginners [#46](https://github.com/SyafiqHadzir/Personal-Milestone/issues/46)
+5. [x] JavaScript Tutorial for Beginners [#6](https://github.com/SyafiqHadzir/Personal-Milestone/issues/6)
+6. [x] JavaScript Crash Course for Beginners [#1](https://github.com/SyafiqHadzir/Personal-Milestone/issues/1)
+7. [ ] Nuxt JS Crash Course [#49](https://github.com/SyafiqHadzir/Personal-Milestone/issues/49)
+8. [ ] Svelte Tutorial for Beginners [#43](https://github.com/SyafiqHadzir/Personal-Milestone/issues/43)
+9. [x] TypeScript Tutorial [#35](https://github.com/SyafiqHadzir/Personal-Milestone/issues/35)
+10. [ ] VueJS 3 Tutorial for Beginners [#17](https://github.com/SyafiqHadzir/Personal-Milestone/issues/17)
 
 ### **Python Tutorials**
 
