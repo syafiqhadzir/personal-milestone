@@ -39,7 +39,7 @@ Personal learning progression.
 
 ### **JavaScript Tutorials**
 
-1. [ ] Coffee Script Tutorial [#50](https://github.com/SyafiqHadzir/Personal-Milestone/issues/50)
+1. [x] Coffee Script Tutorial [#50](https://github.com/SyafiqHadzir/Personal-Milestone/issues/50)
 2. [ ] GatsbyJS Crash Course [#48](https://github.com/SyafiqHadzir/Personal-Milestone/issues/48)
 3. [ ] GatsbyJS Tutorial [#44](https://github.com/SyafiqHadzir/Personal-Milestone/issues/44)
 4. [x] Gatsby Tutorial for Beginners [#46](https://github.com/SyafiqHadzir/Personal-Milestone/issues/46)
