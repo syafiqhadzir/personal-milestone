@@ -1,0 +1,18 @@
+{
+  "name": "cypress-crash-course",
+  "version": "1.0.0",
+  "description": "Learn Full E2E Testing Using Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tutorial"
+  ],
+  "author": "Syafiq Hadzir",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^8.5.0",
+    "npm-check-updates": "^11.8.5"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "js-for-testers",
+  "version": "1.0.0",
+  "description": "JavaScript for Testers",
+  "main": "index.js",
+  "scripts": {
+    "basic": "node src/basic.js"
+  },
+  "keywords": [
+    "javascript",
+    "tutorials"
+  ],
+  "author": "Syafiq Hadzir",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "mocha": "^9.1.3"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4"
+  }
+}
