@@ -2,9 +2,9 @@
 
 Learn Full E2E Testing Using Cypress | 2020 Update
 
-Link: https://www.youtube.com/watch?v=OIAzwr-_jhY
+Link: <https://www.youtube.com/watch?v=OIAzwr-_jhY>
 
-### Milestones
+## Milestones
 
 - [x] Intro
 - [x] How Cypress Work

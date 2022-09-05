@@ -52,7 +52,7 @@ context('Files', () => {
 
     // You can read a file and yield its contents
     // The filePath is relative to your project's root.
-    cy.readFile('cypress.json').then((json) => {
+    cy.readFile('./cypress/fixtures/example.json').then((json) => {
       expect(json).to.be.an('object')
     })
   })

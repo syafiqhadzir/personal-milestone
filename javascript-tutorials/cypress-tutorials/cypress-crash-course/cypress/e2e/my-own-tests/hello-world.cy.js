@@ -37,7 +37,7 @@ describe('Basic Tests', () => {
          console.log('The current real URL is: ', value)
       })
 
-      cy.contains('Sign In').click()
+      // cy.contains('Sign In').click()
       cy.get('[data-testid=username]', { timeout: 1 * 1000 }).should('exist')
       cy.get('[data-testid=password]').should('exist')
 

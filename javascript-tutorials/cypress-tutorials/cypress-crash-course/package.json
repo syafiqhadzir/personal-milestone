@@ -4,7 +4,7 @@
   "description": "Learn Full E2E Testing Using Cypress",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "cypress:run": "cypress run --record --key 1e7290d8-6268-4dd8-84fd-f7b4cc4add3b"
   },
   "keywords": [
     "tutorial"
@@ -12,7 +12,7 @@
   "author": "Syafiq Hadzir",
   "license": "ISC",
   "dependencies": {
-    "cypress": "^10.7.0",
-    "npm-check-updates": "^16.1.0"
+    "cypress": "^10.5.0",
+    "npm-check-updates": "^16.0.5"
   }
 }
