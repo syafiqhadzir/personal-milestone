@@ -13,7 +13,7 @@
   "author": "Syafiq Hadzir",
   "license": "UNLICENSED",
   "dependencies": {
-    "mocha": "^9.1.3"
+    "mocha": "^9.2.2"
   },
   "devDependencies": {
     "chai": "^4.3.4"
