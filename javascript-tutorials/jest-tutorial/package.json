@@ -6,15 +6,15 @@
   "author": "Syafiq Hadzir (syafiqhadzir@live.com.my)",
   "license": "UNLICENSED",
   "dependencies": {
-    "@testing-library/jest-dom": "latest",
-    "@testing-library/react": "latest",
-    "@testing-library/user-event": "latest",
-    "bootstrap": "latest",
-    "node-sass": "latest",
-    "react": "latest",
-    "react-bootstrap": "latest",
-    "react-dom": "latest",
-    "react-scripts": "latest"
+    "@testing-library/jest-dom": "5.16.5",
+    "@testing-library/react": "13.4.0",
+    "@testing-library/user-event": "14.4.3",
+    "bootstrap": "5.2.1",
+    "node-sass": "7.0.1",
+    "react": "18.2.0",
+    "react-bootstrap": "2.5.0",
+    "react-dom": "18.2.0",
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -35,14 +35,14 @@
     ]
   },
   "devDependencies": {
-    "babel-eslint": "latest",
-    "eslint": "latest",
-    "eslint-config-airbnb": "latest",
-    "eslint-config-prettier": "latest",
-    "eslint-plugin-import": "latest",
-    "eslint-plugin-jsx-a11y": "latest",
-    "eslint-plugin-prettier": "latest",
-    "eslint-plugin-react": "latest",
-    "prettier": "latest"
+    "babel-eslint": "10.1.0",
+    "eslint": "8.23.0",
+    "eslint-config-airbnb": "19.0.4",
+    "eslint-config-prettier": "8.5.0",
+    "eslint-plugin-import": "2.26.0",
+    "eslint-plugin-jsx-a11y": "6.6.1",
+    "eslint-plugin-prettier": "4.2.1",
+    "eslint-plugin-react": "7.31.7",
+    "prettier": "2.7.1"
   }
 }
