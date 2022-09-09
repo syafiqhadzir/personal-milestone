@@ -1,0 +1,26 @@
+{
+  "name": "lamp-with-vuejs",
+  "version": "1.0.0",
+  "description": "Complete Web Development Course: HTML, Vue.js, PHP, MySQL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/SyafiqHadzir/lamp-with-vuejs.git"
+  },
+  "keywords": [
+    "tutorial"
+  ],
+  "author": "Syafiq Hadzir",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://gitlab.com/SyafiqHadzir/lamp-with-vuejs/issues"
+  },
+  "homepage": "https://gitlab.com/SyafiqHadzir/lamp-with-vuejs#readme",
+  "dependencies": {
+    "@vue/cli": "4.5.13",
+    "npm-check-updates": "11.8.5"
+  }
+}
