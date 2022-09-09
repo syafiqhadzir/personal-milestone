@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "core-js": "3.18.2",
-    "npm-check-updates": "11.8.5",
+    "npm-check-updates": "16.1.0",
     "vue": "3.2.6"
   },
   "devDependencies": {
