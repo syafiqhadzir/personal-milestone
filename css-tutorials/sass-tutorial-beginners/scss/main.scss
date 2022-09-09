@@ -1,0 +1,90 @@
+// Partials
+@import "./resets";
+@import "./variables";
+
+// Functions
+
+@function weight($weight-name) {
+  @return map-get(
+    $map: $font-weights,
+    $key: $weight-name
+  ); // $map & $key are removable
+}
+
+// Mixin
+
+// Mixin: Styling
+
+@mixin flexCenter($direction) {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: $direction;
+}
+
+// Mixin: Theme
+
+@mixin theme($light-theme: true) {
+  @if $light-theme {
+    background: lighten($primary-color, 100%);
+    color: darken($text-color, 100%);
+  }
+}
+
+// Mixin: MediaQuery
+
+@mixin mobile {
+  @media (max-width: $mobile) {
+    @content;
+  }
+}
+
+// Notes: Functions are used to compute & return values. While, mixins are used to define styles.
+
+// Maps
+$font-weights: (
+  "regular": 400,
+  "medium": 500,
+  "bold": 700,
+);
+
+body {
+  //   background: var(--primary-color); CSS
+  background: $primary-color; // Sass
+  color: $text-color;
+}
+
+.main {
+  @include flexCenter(row);
+  // Math operations
+  width: 80% - 40%;
+  margin: 0 auto;
+
+  // Nesting
+  #{&}__paragraph1 {
+    // ampersand, &, parent selector (#{$}, interpolation)
+    font-weight: weight(bold);
+
+    &:hover {
+      color: pink;
+    }
+  }
+
+  // Extend
+
+  #{&}__paragraph2 {
+    @extend .main__paragraph1;
+
+    &:hover {
+      color: $accent-color;
+    }
+  }
+
+  @include mobile {
+    flex-direction: column;
+  }
+}
+
+.light {
+  @include theme($light-theme: true);
+}

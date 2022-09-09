@@ -1,0 +1,25 @@
+{
+  "name": "tailwind-css-tutorial",
+  "version": "1.0.0",
+  "description": "Tailwind CSS v2.0: From Zero to Production",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "Syafiq Hadzir",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@vitejs/plugin-react-refresh": "latest",
+    "autoprefixer": "latest",
+    "cssnano": "latest",
+    "postcss": "latest",
+    "tailwindcss": "latest",
+    "vite": "latest"
+  },
+  "dependencies": {
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}

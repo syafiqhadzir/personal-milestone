@@ -1,0 +1,76 @@
+@import "_header";
+
+@mixin fancy-border($size, $color) {
+  border: $size dashed $color;
+  border-radius: 5px;
+}
+
+@mixin text-style($size) {
+  font-size: $size;
+  @if $size > 20px {
+    color: blue;
+  } @else if $size == 20px {
+    color: red;
+  } @else {
+    color: green;
+  }
+}
+
+// override nesting "_header"
+header {
+  @include fancy-border(1px, black);
+  @include text-style(10px);
+  background-color: yellow;
+}
+
+$theme-color: red;
+$p-margin-style: 10px;
+$base-size: 20px;
+$base-color: green;
+
+html {
+  color: $theme-color;
+}
+
+main {
+  background-color: blue;
+  p {
+    color: red;
+  }
+  article {
+    background-color: yellow;
+    p {
+      color: green;
+    }
+  }
+}
+
+p {
+  margin: $p-margin-style;
+  font-size: $base-size - 2;
+  color: $base-color;
+}
+
+button {
+  font-size: $base-size;
+  background-color: $base-color - 50;
+}
+
+.message {
+  font-size: 20px;
+  border: 1px solid black;
+}
+
+.warning {
+  @extend .message;
+  color: yellow;
+}
+
+.error {
+  @extend .warning;
+  background-color: red;
+}
+
+footer {
+  color: blue;
+}

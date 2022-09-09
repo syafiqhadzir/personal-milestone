@@ -1,0 +1,24 @@
+{
+  "name": "stylus-tutorial",
+  "version": "1.0.0",
+  "description": "Playlist Link: <https://www.youtube.com/playlist?list=PLLnpHn493BHFWQGA1PcyQZWAfR96a4CkH>",
+  "main": "index.js",
+  "scripts": {
+    "test": "stylus -u nib -u rupture -u typographic -w styles.styl",
+    "gulp:styles": "gulp styles",
+    "gulp:watch": "gulp watch:styles"
+  },
+  "keywords": [],
+  "author": "Syafiq Hadzir",
+  "license": "ISC",
+  "dependencies": {
+    "stylus": "latest"
+  },
+  "devDependencies": {
+    "gulp": "latest",
+    "gulp-stylus": "latest",
+    "nib": "latest",
+    "rupture": "latest",
+    "typographic": "latest"
+  }
+}

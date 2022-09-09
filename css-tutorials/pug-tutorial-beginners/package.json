@@ -1,0 +1,27 @@
+{
+  "name": "pug-tutorial-beginners",
+  "description": "Pug Template Engine - Full Tutorial for Beginners",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "watch:intro": "pug -w ./01-intro/ -o ./01-intro/html/ -P",
+    "watch:basics": "pug -w ./02-basics/ -o ./02-basics/html/ -P",
+    "watch:ids-classes": "pug -w ./03-ids-classes/ -o ./03-ids-classes/html/ -P",
+    "watch:attributes": "pug -w ./04-attributes/ -o ./04-attributes/html/ -P",
+    "watch:css": "pug -w ./05-css/ -o ./05-css/html/ -P",
+    "watch:for-each": "pug -w ./06-for-each/ -o ./06-for-each/html/ -P",
+    "watch:conditions": "pug -w ./07-conditions/ -o ./07-conditions/html/ -P",
+    "watch:case": "pug -w ./08-case/ -o ./08-case/html/ -P",
+    "watch:include": "pug -w ./09-include/ -o ./09-include/html/ -P",
+    "watch:mixins": "pug -w ./10-mixins/ -o ./10-mixins/html/ -P"
+  },
+  "keywords": [
+    "css",
+    "less"
+  ],
+  "author": "Syafiq Hadzir",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "pug-cli": "latest"
+  }
+}

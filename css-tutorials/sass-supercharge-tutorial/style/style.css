@@ -1,0 +1,60 @@
+header {
+  color: blue;
+}
+
+header {
+  border: 1px dashed black;
+  border-radius: 5px;
+  font-size: 10px;
+  color: green;
+  background-color: yellow;
+}
+
+html {
+  color: red;
+}
+
+main {
+  background-color: blue;
+}
+
+main p {
+  color: red;
+}
+
+main article {
+  background-color: yellow;
+}
+
+main article p {
+  color: green;
+}
+
+p {
+  margin: 10px;
+  font-size: 18px;
+  color: green;
+}
+
+button {
+  font-size: 20px;
+  background-color: #004e00;
+}
+
+.message, .warning, .error {
+  font-size: 20px;
+  border: 1px solid black;
+}
+
+.warning, .error {
+  color: yellow;
+}
+
+.error {
+  background-color: red;
+}
+
+footer {
+  color: blue;
+}
+/*# sourceMappingURL=style.css.map */

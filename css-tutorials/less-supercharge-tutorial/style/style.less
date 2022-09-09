@@ -1,0 +1,76 @@
+// Imports
+@import "button.less";
+
+@button-color: @base-color;
+
+// Variables declarations
+@theme-color: blue;
+@p-margin-size: 10px;
+@base-size: 20px;
+@base-color: #1b5e20;
+
+html {
+    color: @theme-color
+}
+
+header {
+    color: @theme-color
+}
+
+main {
+    // Nesting & Scope
+    background-color: yellow;
+
+    p {
+        margin: @p-margin-size;
+        .p-style(@base-size);
+        color: @base-color;
+
+        article {
+            color: blue;
+
+            p {
+                color: yellow
+            }
+        }
+    }
+}
+
+// Mixins
+.fancy-border {
+    // classes & IDs don't matter
+    border: 1px dashed black
+}
+
+.only-to-use-inside(@size: 0.5px, @color) {
+    border: @size dashed @color
+}
+
+.fancier-border {
+    .fancy-border;
+    .only-to-use-inside(0.5px, blue);
+    background-color: yellow;
+    border-radius: 5px
+}
+
+// Mixin guards
+.p-style(@size) when (@size <=20) {
+    font-size: @size;
+    color: red
+}
+
+.p-style(@size) when (@size > 20) {
+    font-size: @size;
+    color: blue
+}
+
+
+button {
+    background-color: desaturate(@theme-color, 50%);
+    font-size: @base-size * 2; // operators
+    background-color: @base-color + 200;
+}
+
+footer {
+    color: @theme-color
+}

@@ -1,0 +1,12 @@
+.title {
+	color: red;
+}
+
+.subtitle {
+	color: blue;
+}
+
+/* # is called as octothorp */
+#contact-us {
+	color: green;
+}

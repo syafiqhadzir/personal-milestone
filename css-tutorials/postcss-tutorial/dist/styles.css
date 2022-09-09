@@ -1,0 +1,139 @@
+.grid-item {
+  background: #2c3e50;
+  height: 100px;
+  margin-bottom: 20px;
+}
+
+.nested-grid-item {
+  background: red;
+  height: 50px;
+  margin-bottom: 10px;
+}
+
+.grid-one {
+  display: flex;
+  flex-flow: row wrap;
+  max-width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.grid-one div {
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: calc(99.9% * 1/1 - (30px - 30px * 1/1));
+  max-width: calc(99.9% * 1/1 - (30px - 30px * 1/1));
+  width: calc(99.9% * 1/1 - (30px - 30px * 1/1));
+  display: flex;
+  font-style: 2em;
+}
+
+.grid-one div:nth-child(1n) {
+  margin-right: 30px;
+  margin-left: 0;
+}
+
+.grid-one div:last-child {
+  margin-right: 0;
+}
+
+.grid-one div:nth-child(1n) {
+  margin-right: 0;
+  margin-left: auto;
+}
+
+.grid-one div {
+  justify-content: center;
+  align-items: center;
+}
+
+.grid-one div p {
+  margin: 0;
+}
+
+@media screen and (min-width: 400px) {
+  .grid-one div {
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis: calc(99.9% * 1/2 - (30px - 30px * 1/2));
+    max-width: calc(99.9% * 1/2 - (30px - 30px * 1/2));
+    width: calc(99.9% * 1/2 - (30px - 30px * 1/2));
+  }
+  .grid-one div:nth-child(1n) {
+    margin-right: 30px;
+    margin-left: 0;
+  }
+  .grid-one div:last-child {
+    margin-right: 0;
+  }
+  .grid-one div:nth-child(2n) {
+    margin-right: 0;
+    margin-left: auto;
+  }
+}
+
+@media screen and (min-width: 900px) {
+  .grid-one div {
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis: calc(99.9% * 1/3 - (30px - 30px * 1/3));
+    max-width: calc(99.9% * 1/3 - (30px - 30px * 1/3));
+    width: calc(99.9% * 1/3 - (30px - 30px * 1/3));
+  }
+  .grid-one div:nth-child(1n) {
+    margin-right: 30px;
+    margin-left: 0;
+  }
+  .grid-one div:last-child {
+    margin-right: 0;
+  }
+  .grid-one div:nth-child(3n) {
+    margin-right: 0;
+    margin-left: auto;
+  }
+}
+
+@media screen and (min-width: 1300px) {
+  .grid-one div {
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis: calc(99.9% * 1/4 - (30px - 30px * 1/4));
+    max-width: calc(99.9% * 1/4 - (30px - 30px * 1/4));
+    width: calc(99.9% * 1/4 - (30px - 30px * 1/4));
+  }
+  .grid-one div:nth-child(1n) {
+    margin-right: 30px;
+    margin-left: 0;
+  }
+  .grid-one div:last-child {
+    margin-right: 0;
+  }
+  .grid-one div:nth-child(4n) {
+    margin-right: 0;
+    margin-left: auto;
+  }
+}
+
+.grid-one div:first-child {
+  margin-left: calc(99.9% * (-1/4 * -1) - (30px - 30px * (-1/4 * -1)) + 30px) !important;
+}
+
+.responsive {
+  font-size: calc(16px + 20 * ((100vw - 420px) / 860));
+}
+
+@media screen and (min-width: 1280px) {
+
+  .responsive {
+    font-size: 36px;
+  }
+}
+
+@media screen and (max-width: 420px) {
+
+  .responsive {
+    font-size: 16px;
+  }
+}

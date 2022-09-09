@@ -1,0 +1,46 @@
+// @import 'styl/variables'
+// @import 'styl/mixins'
+
+// Styl-Globbing
+@import 'nib'
+@import 'styl/*'
+@import 'typographic'
+
+// Eric Meyer's CSS Reset
+// reset-html5()
+normalize-base()
+normalize-html5()
+
+t-presets(perfect-fourth)
+
+rupture.scale = 0 400px 600px 800px 1050px 1800px
+rupture.scale-names = 'xs' 's' 'm' 'l' 'xl' 'hd'
+
+t-headers(helvetica)
+
+body
+    background linear-gradient(top, white, black)
+    color red
+    fixed top 20px left 2%
+    border @color
+    margin-left add(5, 5)px
+    font-family futura
+    
+    +above('m')
+            color red
+
+    +above('xl')
+            color blue
+
+    main
+        margin marg(15px)
+        color blue
+        transition(all .2s ease)
+        border solid 1px @color
+        border-radius 20px
+        test(11)
+        clearfix()
+        
+        a
+            overflow ellipsis
+            shadow-stroke(blue)

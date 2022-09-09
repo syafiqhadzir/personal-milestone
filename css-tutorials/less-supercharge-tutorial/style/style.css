@@ -1,0 +1,41 @@
+button {
+  background-color: #1b5e20;
+}
+html {
+  color: blue;
+}
+header {
+  color: blue;
+}
+main {
+  background-color: yellow;
+}
+main p {
+  margin: 10px;
+  font-size: 20px;
+  color: red;
+  color: #1b5e20;
+}
+main p article {
+  color: blue;
+}
+main p article p {
+  color: yellow;
+}
+.fancy-border {
+  border: 1px dashed black;
+}
+.fancier-border {
+  border: 1px dashed black;
+  border: 0.5px dashed blue;
+  background-color: yellow;
+  border-radius: 5px;
+}
+button {
+  background-color: #4040bf;
+  font-size: 40px;
+  background-color: #e3ffe8;
+}
+footer {
+  color: blue;
+}

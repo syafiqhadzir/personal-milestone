@@ -1,0 +1,25 @@
+{
+  "name": "postcss-tutorial",
+  "version": "1.0.0",
+  "description": "Playlist: <https://www.youtube.com/playlist?list=PLLnpHn493BHFvjZzyYrQP0RTsG-Al7j9m>",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp styles"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "latest",
+    "cssnext": "latest",
+    "csswring": "latest",
+    "gulp": "latest",
+    "gulp-postcss": "latest",
+    "gulp-sass": "latest",
+    "gulp-stylus": "latest",
+    "lost": "latest",
+    "precss": "latest",
+    "rucksack-css": "latest",
+    "sass": "latest"
+  }
+}

@@ -1,0 +1,53 @@
+@lost flexbox flex;
+
+.grid-item {
+  background: #2c3e50;
+  height: 100px;
+  margin-bottom: 20px;
+}
+
+.nested-grid-item {
+  background: red;
+  height: 50px;
+  margin-bottom: 10px;
+}
+
+.grid-one {
+  lost-center: 80% 40px;
+}
+
+.grid-one div {
+  lost-column: 1/1;
+  lost-align: center;
+  font-style: 2em;
+}
+
+.grid-one div p {
+  margin: 0;
+}
+
+@media screen and (min-width: 400px) {
+  .grid-one div {
+    lost-column: 1/2;
+  }
+}
+
+@media screen and (min-width: 900px) {
+  .grid-one div {
+    lost-column: 1/3;
+  }
+}
+
+@media screen and (min-width: 1300px) {
+  .grid-one div {
+    lost-column: 1/4 4 30px;
+  }
+}
+
+.grid-one div:first-child {
+  lost-offset: 1/4;
+}
+
+.responsive {
+  font-size: responsive 16px 36px;
+}

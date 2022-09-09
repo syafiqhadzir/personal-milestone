@@ -1,0 +1,18 @@
+vendor(property, arg)
+    {property} arg
+    -webkit-{property} arg
+    -moz-{property} arg
+
+
+border-radius(radius = 5px)
+    vendor('border-radius', radius)
+    
+
+transition(args)
+    vendor('transition', args)
+
+
+test(var)
+    margin-top unit(var, 'px')
+    if var > 10
+        margin-bottom unit(var, 'px')

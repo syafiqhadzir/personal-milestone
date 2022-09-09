@@ -1,0 +1,36 @@
+#class1 {
+    background-color: yellow;
+}
+
+h2,
+h1,
+p {
+    background-color: blue;
+}
+
+ul>li {
+    background-color: red;
+}
+
+p+h2 {
+    background-color: green;
+}
+
+[title] {
+    background-color: cyan;
+}
+
+[href] {
+    background-color: purple;
+}
+
+li[title="lemons"] {
+    background-color: fuchsia;
+}
+
+input:checked
+
+/* input[type="checkbox"]:checked {} */
+    {
+    box-shadow: 2px 2px 2px 2px;
+}

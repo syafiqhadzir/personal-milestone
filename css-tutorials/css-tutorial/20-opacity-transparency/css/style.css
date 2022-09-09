@@ -1,0 +1,22 @@
+body {
+	/* background: url("https://wallpaperaccess.com/full/1395383.jpg"); */
+	background-color: rgb(204, 229, 255, 0.4)
+}
+
+#title {
+	color: rgb(186, 133, 9);
+}
+
+.subtitle {
+	color: rgb(200, 148, 30);
+}
+
+#service-image {
+	height: 400px;
+	width: 70%;
+
+	background: url("../img/img-2.jpg");
+	background-size: cover;
+	/* background-repeat: repeat; */
+	background-color: steelblue;
+}

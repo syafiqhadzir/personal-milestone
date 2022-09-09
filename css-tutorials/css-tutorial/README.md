@@ -1,0 +1,61 @@
+# Zero to Hero (Complete Course)
+
+Link: <https://www.youtube.com/watch?v=1Rs2ND1ryYc>
+
+## Milestones
+
+- [x] Course Achievements & Results
+- [x] Introduction to Course
+- [x] Downloading Necessary Software
+- [x] Where to Find Project Files
+- [x] What is CSS?
+- [x] Creating & Linking a CSS Stylesheet
+- [x] How to Test a Stylesheet
+- [x] What is a Selector?
+- [x] Classes & ID's in HTML
+- [x] Specificity & When to use Selectors
+- [x] Pseudoselectors
+- [x] Advanced Selectors
+- [x] Attribute Selectors
+- [x] What are Properties?
+- [x] The CSS General Rule
+- [x] Types of Colors
+- [x] Coloring Text
+- [x] Background Colors
+- [x] Images/URL's in CSS
+- [x] Other Background Properties
+- [x] Opacity/Transparency
+- [ ] Gradients
+- [ ] Introduction to Types of Units
+- [ ] Text Manipulation
+- [ ] Font Size, Bolding & Style
+- [ ] Font Families
+- [ ] Including External Fonts w/ Google Fonts
+- [ ] Using External Fonts
+- [ ] The CSS Box Model
+- [ ] Changing Content Size
+- [ ] CSS Borders
+- [ ] Margin & Padding
+- [ ] Float & Display Types
+- [ ] What is Flexbox?
+- [ ] Creating a Flex Container
+- [ ] Flex Direction & Wrap
+- [ ] Content Alignment
+- [ ] Flex Item Order
+- [ ] Shrink, Grow, & Basis
+- [ ] The 'flex' Property
+- [ ] Grid vs Flexbox
+- [ ] Creating a Grid
+- [ ] Template Columns & Rows
+- [ ] Justify & Align Grid
+- [ ] Row & Column Gaps
+- [ ] Column & Row Lines
+- [ ] Grid Area
+- [ ] The Transition Property
+- [ ] Transformation Functions
+- [ ] Creating Animations w/ Keyframes
+- [ ] Adding an Animation
+- [ ] Animation Properties
+- [ ] Website Transformation Challenge
+- [ ] Website Transformation - SOLUTION
+- [ ] What to Learn Next
