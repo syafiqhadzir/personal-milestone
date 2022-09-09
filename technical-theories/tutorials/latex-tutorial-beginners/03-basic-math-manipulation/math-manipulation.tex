@@ -1,0 +1,45 @@
+\documentclass[10pt]{article}
+
+\usepackage{amsmath, amsfonts, amssymb}
+\usepackage{graphicx}
+
+\begin{document}
+	
+	Display styled math puts math on display which is always centered.
+	
+	While, inline or text styled math stays in line.
+	
+	\[f(x) = (x + 2)^2-9\]
+	
+	Aligning multiple equations using align*
+	
+	\begin{align*}
+		2x + 1 & = 9	& 3y - 2 & = -5		& -5z + 8 & =  3 \\
+			2x & = 8	&	  3y & = -3		& 	  -5z & = -5 \\
+			 x & = 4	&	   y & = -1		&		z & = -1
+	\end{align*}
+
+	\begin{align*}
+		f(x) & = a_2 x^2 + a_1 x + a_0 \nonumber \\
+			 & = x^2 + 4x - 5
+	\end{align*}
+
+	For inline, notice that by substitution we get the equation $f(x) = x^2 + 4x - 5$.
+	
+	Also, notice that by substitution we get the equation \(f(x) = x^2 + 4x - 5\).
+	
+	The variable \(x\).
+	The letter x.
+	
+	More differences in the math modes,
+	
+	Display styled math,
+	
+	\(displaystyle \sum_{n=1}^{\infty}\frac{1}{n^2} = \frac{pi^2}{6} \)
+	
+	For inline,
+	
+	\(textstyle \sum_{n=1}^{\infty}\frac{1}{n^2} = \frac{pi^2}{6} \)
+	
+    
+\end{document}
