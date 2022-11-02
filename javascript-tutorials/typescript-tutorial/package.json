@@ -1,0 +1,15 @@
+{
+  "name": "typescript-tutorial",
+  "version": "0.0.0",
+  "description": "TypeScript for React (Learn TypeScript, 2020)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SyafiqHadzir/Hunspell-MS.git"
+  },
+  "author": "Syafiq Hadzir <syafiqhadzir@live.com.my> (https://syafiqhadzir.dev)",
+  "license": "UNLICENSED",
+  "homepage": "https://github.com/SyafiqHadzir/Personal-Milestone/tree/main/javascript-tutorials/typescript-tutorial"
+}
