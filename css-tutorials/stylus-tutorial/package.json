@@ -12,13 +12,13 @@
   "author": "Syafiq Hadzir",
   "license": "ISC",
   "dependencies": {
-    "stylus": "latest"
+    "stylus": "^0.59.0"
   },
   "devDependencies": {
-    "gulp": "latest",
-    "gulp-stylus": "latest",
-    "nib": "latest",
-    "rupture": "latest",
-    "typographic": "latest"
+    "gulp": "^4.0.2",
+    "gulp-stylus": "^3.0.0",
+    "nib": "^1.2.0",
+    "rupture": "^0.7.1",
+    "typographic": "^3.0.0"
   }
 }
