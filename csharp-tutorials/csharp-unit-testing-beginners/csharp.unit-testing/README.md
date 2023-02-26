@@ -7,7 +7,7 @@ Link: <https://www.youtube.com/watch?v=HYrXogLj7vg>
 ### Milestones
 
 - [x] What is Automated Testing
-- [ ] Benefits of Automated Testing
+- [x] Benefits of Automated Testing
 - [ ] Types of Tests
 - [ ] Test Pyramid
 - [ ] The Tooling
