@@ -20,7 +20,7 @@
   },
   "homepage": "https://gitlab.com/SyafiqHadzir/lamp-with-vuejs#readme",
   "dependencies": {
-    "@vue/cli": "4.5.13",
-    "npm-check-updates": "11.8.5"
+    "@vue/cli": "5.0.8",
+    "npm-check-updates": "16.6.5"
   }
 }
