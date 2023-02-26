@@ -1,0 +1,21 @@
+# C# Unit Testing Tutorial for Beginners
+
+Unit Testing C# Code - Tutorial for Beginners.
+
+Link: <https://www.youtube.com/watch?v=HYrXogLj7vg>
+
+### Milestones
+
+- [x] What is Automated Testing
+- [ ] Benefits of Automated Testing
+- [ ] Types of Tests
+- [ ] Test Pyramid
+- [ ] The Tooling
+- [ ] Source Code
+- [ ] Writing Your First Unit Test
+- [ ] Testing All the Execution Paths
+- [ ] Refactoring With Confidence
+- [ ] Using NUnit in Visual Studio
+- [ ] What is Test-Driven Development
+- [ ] Course Structure
+- [ ] Summary
