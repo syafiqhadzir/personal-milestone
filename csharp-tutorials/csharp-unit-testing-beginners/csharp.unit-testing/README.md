@@ -11,7 +11,7 @@ Link: <https://www.youtube.com/watch?v=HYrXogLj7vg>
 - [x] Types of Tests
 - [x] Test Pyramid
 - [x] The Tooling
-- [ ] Source Code
+- [x] Source Code
 - [ ] Writing Your First Unit Test
 - [ ] Testing All the Execution Paths
 - [ ] Refactoring With Confidence
