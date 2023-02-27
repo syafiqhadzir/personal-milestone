@@ -18,4 +18,4 @@ Link: <https://www.youtube.com/watch?v=HYrXogLj7vg>
 - [x] Using NUnit in Visual Studio
 - [x] What is Test-Driven Development
 - [x] Course Structure
-- [ ] Summary
+- [x] Summary
