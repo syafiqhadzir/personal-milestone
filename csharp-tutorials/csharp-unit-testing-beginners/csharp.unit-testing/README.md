@@ -8,7 +8,7 @@ Link: <https://www.youtube.com/watch?v=HYrXogLj7vg>
 
 - [x] What is Automated Testing
 - [x] Benefits of Automated Testing
-- [ ] Types of Tests
+- [x] Types of Tests
 - [ ] Test Pyramid
 - [ ] The Tooling
 - [ ] Source Code

@@ -22,3 +22,17 @@ It is because we must:-
 * Focus more on the quality
 
 Refactoring means changing the structure of the code without changing its behaviour.
+
+## Types of Tests
+
+# 1. Unit Test
+
+Tests a unit of an application without its _external_ dependencies
+
+# 2. Integration
+
+Tests the application with its _external_ dependencies
+
+# 3. End-to-End
+
+Drives an application through its UI
