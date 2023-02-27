@@ -42,3 +42,9 @@ Drives an application through its UI
 (Hardest) E2E ~> Integration ~> Unit Test (Easiest)
 : The actual ratio between unit, integration and end-to-end tests depends on your project.
 : Favour unit tests to e2e tests. Cover unit test gaps with integration tests. Use e2e tests sparingly.
+
+## The Tooling
+
+1. NUnit: member of .Net Foundation
+2. MSTest: Official Microsoft unit test framework
+3. xUnit: free open-source and community-focused unit test framework
