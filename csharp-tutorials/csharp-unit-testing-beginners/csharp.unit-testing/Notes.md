@@ -55,4 +55,4 @@ Drives an application through its UI
 2. Write the simplest code to make the test pass
 3. Refactor if necessary
 
-Benefits of TDD: testable source code; full coverage by tests; simpler implementation
+Benefits of TDD: testable source code; full coverage by tests; simpler implementation.
