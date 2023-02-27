@@ -17,5 +17,5 @@ Link: <https://www.youtube.com/watch?v=HYrXogLj7vg>
 - [x] Refactoring With Confidence
 - [x] Using NUnit in Visual Studio
 - [x] What is Test-Driven Development
-- [ ] Course Structure
+- [x] Course Structure
 - [ ] Summary
