@@ -13,7 +13,7 @@ Link: <https://www.youtube.com/watch?v=HYrXogLj7vg>
 - [x] The Tooling
 - [x] Source Code
 - [x] Writing Your First Unit Test
-- [ ] Testing All the Execution Paths
+- [x] Testing All the Execution Paths
 - [ ] Refactoring With Confidence
 - [ ] Using NUnit in Visual Studio
 - [ ] What is Test-Driven Development
