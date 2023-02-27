@@ -1,12 +1,12 @@
 ﻿using csharp.unit_testing.Fundamentals;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+using NUnit.Framework;
 
 namespace csharp.unit_testing.Tests
 {
-    [TestClass]
+    [TestFixture]
     public class ReservationTests
     {
-        [TestMethod]
+        [Test]
         public void CanBeCancelledBy_UserIsAdmin_ReturnsTrue()
         {
             // Arrange
@@ -16,10 +16,16 @@ namespace csharp.unit_testing.Tests
             var result = reservation.CanBeCancelledBy(new User { IsAdmin = true });
 
             // Assert
-            Assert.IsTrue(result);
+            Assert.That(result, Is.True);
+            //
+            // You can also use:-
+            //
+            // Assert.IsTrue(result);
+            // Assert.That(result == true);
+            //
         }
 
-        [TestMethod]
+        [Test]
         public void CanBeCancelledBy_SameUserCancellingTheReservation_ReturnsTrue()
         {
             // Arrange
@@ -33,7 +39,7 @@ namespace csharp.unit_testing.Tests
             Assert.IsTrue(result);
         }
 
-        [TestMethod]
+        [Test]
         public void CanBeCancelledBy_AnotherUserCancellingReservation_ReturnsFalse()
         {
             // Arrange

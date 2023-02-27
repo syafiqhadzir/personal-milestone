@@ -48,3 +48,11 @@ Drives an application through its UI
 1. NUnit: member of .Net Foundation
 2. MSTest: Official Microsoft unit test framework
 3. xUnit: free open-source and community-focused unit test framework
+
+## What is Test-Driven Development?
+
+1. Write a failing test
+2. Write the simplest code to make the test pass
+3. Refactor if necessary
+
+Benefits of TDD: testable source code; full coverage by tests; simpler implementation
