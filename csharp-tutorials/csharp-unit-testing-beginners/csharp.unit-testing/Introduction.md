@@ -25,14 +25,20 @@ Refactoring means changing the structure of the code without changing its behavi
 
 ## Types of Tests
 
-# 1. Unit Test
+### 1. Unit Test
 
 Tests a unit of an application without its _external_ dependencies
 
-# 2. Integration
+### 2. Integration
 
 Tests the application with its _external_ dependencies
 
-# 3. End-to-End
+### 3. End-to-End
 
 Drives an application through its UI
+
+## Test Pyramid
+
+(Hardest) E2E ~> Integration ~> Unit Test (Easiest)
+: The actual ratio between unit, integration and end-to-end tests depends on your project.
+: Favour unit tests to e2e tests. Cover unit test gaps with integration tests. Use e2e tests sparingly.

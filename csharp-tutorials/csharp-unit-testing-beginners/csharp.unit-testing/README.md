@@ -9,7 +9,7 @@ Link: <https://www.youtube.com/watch?v=HYrXogLj7vg>
 - [x] What is Automated Testing
 - [x] Benefits of Automated Testing
 - [x] Types of Tests
-- [ ] Test Pyramid
+- [x] Test Pyramid
 - [ ] The Tooling
 - [ ] Source Code
 - [ ] Writing Your First Unit Test
