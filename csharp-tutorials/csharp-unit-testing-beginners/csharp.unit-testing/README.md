@@ -14,7 +14,7 @@ Link: <https://www.youtube.com/watch?v=HYrXogLj7vg>
 - [x] Source Code
 - [x] Writing Your First Unit Test
 - [x] Testing All the Execution Paths
-- [ ] Refactoring With Confidence
+- [x] Refactoring With Confidence
 - [ ] Using NUnit in Visual Studio
 - [ ] What is Test-Driven Development
 - [ ] Course Structure
