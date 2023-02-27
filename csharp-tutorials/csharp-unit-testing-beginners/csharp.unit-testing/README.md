@@ -12,7 +12,7 @@ Link: <https://www.youtube.com/watch?v=HYrXogLj7vg>
 - [x] Test Pyramid
 - [x] The Tooling
 - [x] Source Code
-- [ ] Writing Your First Unit Test
+- [x] Writing Your First Unit Test
 - [ ] Testing All the Execution Paths
 - [ ] Refactoring With Confidence
 - [ ] Using NUnit in Visual Studio

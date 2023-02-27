@@ -1,4 +1,7 @@
-﻿namespace TestNinja.Fundamentals
+﻿using System;
+using System.Collections.Generic;
+
+namespace csharp.unit_testing.Fundamentals
 {
     public class Stack<T>
     {

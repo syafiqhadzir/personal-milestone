@@ -1,8 +1,10 @@
+using System;
+using System.IO;
 using System.Net;
 using System.Net.Mail;
 using System.Text;
 
-namespace TestNinja.Mocking
+namespace csharp.unit_testing.Mocking
 {
     public static class HousekeeperHelper
     {

@@ -1,4 +1,6 @@
-﻿namespace TestNinja.Fundamentals
+﻿using System;
+
+namespace csharp.unit_testing.Fundamentals
 {
     public class ErrorLogger
     {

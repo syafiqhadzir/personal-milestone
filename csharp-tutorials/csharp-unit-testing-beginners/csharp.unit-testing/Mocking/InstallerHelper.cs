@@ -1,6 +1,6 @@
 ﻿using System.Net;
 
-namespace TestNinja.Mocking
+namespace csharp.unit_testing.Mocking
 {
     public class InstallerHelper
     {

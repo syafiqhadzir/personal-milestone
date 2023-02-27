@@ -1,6 +1,6 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using System.Data.Entity;
 
-namespace TestNinja.Mocking
+namespace csharp.unit_testing.Mocking
 {
     public class EmployeeController
     {

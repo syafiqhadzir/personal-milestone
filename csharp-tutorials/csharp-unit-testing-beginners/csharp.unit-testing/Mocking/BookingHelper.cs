@@ -1,4 +1,8 @@
-﻿namespace TestNinja.Mocking
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+
+namespace csharp.unit_testing.Mocking
 {
     public static class BookingHelper
     {

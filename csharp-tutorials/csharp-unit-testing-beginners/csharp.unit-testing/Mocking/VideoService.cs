@@ -1,7 +1,12 @@
-﻿using Microsoft.EntityFrameworkCore;
-using Newtonsoft.Json;
+﻿using Newtonsoft.Json;
+using System;
+using System.Collections.Generic;
+using System.Data.Entity;
+using System.IO;
+using System.Linq;
+using System.Web.UI.WebControls;
 
-namespace TestNinja.Mocking
+namespace csharp.unit_testing.Mocking
 {
     public class VideoService
     {

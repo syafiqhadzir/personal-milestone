@@ -1,4 +1,6 @@
-﻿namespace TestNinja.Fundamentals
+﻿using System.Collections.Generic;
+
+namespace csharp.unit_testing.Fundamentals
 {
     public class Math
     {

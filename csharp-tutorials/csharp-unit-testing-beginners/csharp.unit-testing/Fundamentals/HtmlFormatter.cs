@@ -1,4 +1,4 @@
-﻿namespace TestNinja.Fundamentals
+﻿namespace csharp.unit_testing.Fundamentals
 {
     public class HtmlFormatter
     {
