@@ -1,4 +1,5 @@
 ﻿using FluentAssertions;
+using FluentAssertions.Extensions;
 using NetworkUtility.Ping;
 
 namespace NetworkUtility.Tests.Ping
@@ -9,7 +10,7 @@ namespace NetworkUtility.Tests.Ping
 
         public NetworkServiceTests()
         {
-            // SUT
+            // SUT - System Under Test
             _pingService = new NetworkService();
         }
 
@@ -43,6 +44,19 @@ namespace NetworkUtility.Tests.Ping
             result.Should().Be(expected);
             result.Should().BeGreaterThanOrEqualTo(2);
             result.Should().NotBeInRange(-10000, 0);
+        }
+
+        [Fact]
+        public void NetworkService_LastPingData()
+        {
+            // Arrange
+
+            // Act
+            var result = _pingService.LastPingDate();
+
+            // Assert
+            result.Should().BeAfter(1.January(2010));
+            result.Should().BeBefore(1.January(2030));
         }
     }
 }

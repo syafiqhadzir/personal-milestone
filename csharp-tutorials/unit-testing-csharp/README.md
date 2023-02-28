@@ -18,7 +18,7 @@ Link: <https://youtu.be/aq3IbO0RwAQ>
 - [ ] Testing Objects, IEnumberable & Dates
   - [x] Intro
   - [x] System Under Test
-  - [ ] Date Time
+  - [x] Date Time
   - [ ] Test Date
   - [ ] Testing an Object
   - [ ] IEnumerable
