@@ -23,7 +23,7 @@ Link: <https://youtu.be/aq3IbO0RwAQ>
   - [x] Testing an Object
   - [x] IEnumerable
   - [x] Ping Objects
-  - [ ] Type Check
+  - [x] Type Check
   - [ ] Debugging
 - [ ] Mocking Explained Simply [FakeItEasy]
 - [ ] MVC Controllers
