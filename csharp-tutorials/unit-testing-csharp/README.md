@@ -9,7 +9,7 @@ Link: <https://youtu.be/aq3IbO0RwAQ>
 - [x] Intro + First Test
 - [ ] XUnit & Fluent Assertions
   - [x] Intro
-  - [ ] Network Utility
+  - [x] Network Utility
   - [ ] Create Network Utility
   - [ ] Run Unit Tests
   - [ ] XUnit
