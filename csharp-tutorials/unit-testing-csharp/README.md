@@ -22,7 +22,7 @@ Link: <https://youtu.be/aq3IbO0RwAQ>
   - [x] Test Date
   - [x] Testing an Object
   - [x] IEnumerable
-  - [ ] Ping Objects
+  - [x] Ping Objects
   - [ ] Type Check
   - [ ] Debugging
 - [ ] Mocking Explained Simply [FakeItEasy]
