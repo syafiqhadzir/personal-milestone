@@ -27,7 +27,30 @@ namespace NetworkUtility.Ping
             {
                 DontFragment = true,
                 Ttl = 1000
-            }
+            };
+        }
+
+        public IEnumerable<PingOptions> MostRecentPings()
+        {
+            IEnumerable<PingOptions> pingOptions = new[]
+            {
+                new PingOptions()
+                {
+                    DontFragment = true,
+                    Ttl = 1000
+                },
+                new PingOptions()
+                {
+                    DontFragment = true,
+                    Ttl = 1000
+                },
+                new PingOptions()
+                {
+                    DontFragment = true,
+                    Ttl = 1000
+                },
+            };
+            return pingOptions;
         }
     }
 }

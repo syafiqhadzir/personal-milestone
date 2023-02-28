@@ -1,6 +1,7 @@
 ﻿using FluentAssertions;
 using FluentAssertions.Extensions;
 using NetworkUtility.Ping;
+using System.Net.NetworkInformation;
 
 namespace NetworkUtility.Tests.Ping
 {
@@ -57,6 +58,25 @@ namespace NetworkUtility.Tests.Ping
             // Assert
             result.Should().BeAfter(1.January(2010));
             result.Should().BeBefore(1.January(2030));
+        }
+
+        [Fact]
+        public void NetworkService_GetPingOptions_ReturnsObject()
+        {
+            // Arrange
+            var expected = new PingOptions()
+            {
+                DontFragment = true,
+                Ttl = 1000
+            };
+
+            // Act
+            var result = _pingService.GetPingOptions();
+
+            // Assert (WARNING! "Be" careful!)
+            result.Should().BeOfType<PingOptions>();
+            result.Should().BeEquivalentTo(expected);
+            result.Ttl.Should().Be(1000);
         }
     }
 }

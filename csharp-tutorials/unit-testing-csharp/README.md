@@ -20,8 +20,8 @@ Link: <https://youtu.be/aq3IbO0RwAQ>
   - [x] System Under Test
   - [x] Date Time
   - [x] Test Date
-  - [ ] Testing an Object
-  - [ ] IEnumerable
+  - [x] Testing an Object
+  - [x] IEnumerable
   - [ ] Ping Objects
   - [ ] Type Check
   - [ ] Debugging
