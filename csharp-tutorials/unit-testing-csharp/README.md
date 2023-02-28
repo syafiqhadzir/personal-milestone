@@ -16,7 +16,7 @@ Link: <https://youtu.be/aq3IbO0RwAQ>
   - [x] Fluent Assertions
   - [x] Inline Data
 - [ ] Testing Objects, IEnumberable & Dates
-  - [ ] Intro
+  - [x] Intro
   - [ ] System Under Test
   - [ ] Date Time
   - [ ] Test Date
