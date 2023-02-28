@@ -10,7 +10,7 @@ Link: <https://youtu.be/aq3IbO0RwAQ>
 - [ ] XUnit & Fluent Assertions
   - [x] Intro
   - [x] Network Utility
-  - [ ] Create Network Utility
+  - [x] Create Network Utility
   - [ ] Run Unit Tests
   - [ ] XUnit
   - [ ] Fluent Assertions
