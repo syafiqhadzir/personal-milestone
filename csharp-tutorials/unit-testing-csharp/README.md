@@ -7,7 +7,7 @@ Link: <https://youtu.be/aq3IbO0RwAQ>
 ### Milestones
 
 - [x] Intro + First Test
-- [ ] XUnit & Fluent Assertions
+- [x] XUnit & Fluent Assertions
   - [x] Intro
   - [x] Network Utility
   - [x] Create Network Utility
