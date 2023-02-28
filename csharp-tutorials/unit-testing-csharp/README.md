@@ -15,7 +15,7 @@ Link: <https://youtu.be/aq3IbO0RwAQ>
   - [x] XUnit
   - [x] Fluent Assertions
   - [x] Inline Data
-- [ ] Testing Objects, IEnumberable & Dates
+- [x] Testing Objects, IEnumberable & Dates
   - [x] Intro
   - [x] System Under Test
   - [x] Date Time
