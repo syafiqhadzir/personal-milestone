@@ -6,9 +6,9 @@ Link: <https://youtu.be/aq3IbO0RwAQ>
 
 ### Milestones
 
-- [ ] Intro + First Test
+- [x] Intro + First Test
 - [ ] XUnit & Fluent Assertions
-  - [ ] Intro
+  - [x] Intro
   - [ ] Network Utility
   - [ ] Create Network Utility
   - [ ] Run Unit Tests
