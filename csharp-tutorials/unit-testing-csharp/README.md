@@ -12,7 +12,7 @@ Link: <https://youtu.be/aq3IbO0RwAQ>
   - [x] Network Utility
   - [x] Create Network Utility
   - [x] Run Unit Tests
-  - [ ] XUnit
+  - [x] XUnit
   - [ ] Fluent Assertions
   - [ ] Inline Data
 - [ ] Testing Objects, IEnumberable & Dates
