@@ -19,7 +19,7 @@ Link: <https://youtu.be/aq3IbO0RwAQ>
   - [x] Intro
   - [x] System Under Test
   - [x] Date Time
-  - [ ] Test Date
+  - [x] Test Date
   - [ ] Testing an Object
   - [ ] IEnumerable
   - [ ] Ping Objects
