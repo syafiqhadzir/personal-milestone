@@ -24,7 +24,7 @@ Link: <https://youtu.be/aq3IbO0RwAQ>
   - [x] IEnumerable
   - [x] Ping Objects
   - [x] Type Check
-  - [ ] Debugging
+  - [x] Debugging
 - [ ] Mocking Explained Simply [FakeItEasy]
 - [ ] MVC Controllers
 - [ ] MVC Entity Framework

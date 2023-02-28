@@ -93,7 +93,8 @@ namespace NetworkUtility.Tests.Ping
             var result = _pingService.MostRecentPings();
 
             // Assert
-            
+            result.Should().ContainEquivalentOf(expected);
+            result.Should().Contain(x => x.DontFragment == true);
         }
     }
 }
