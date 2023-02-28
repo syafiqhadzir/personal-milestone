@@ -1,4 +1,5 @@
-﻿using NetworkUtility.Ping;
+﻿using FluentAssertions;
+using NetworkUtility.Ping;
 
 namespace NetworkUtility.Tests.Ping
 {
@@ -8,11 +9,15 @@ namespace NetworkUtility.Tests.Ping
         public void NetworkService_SendPing_ReturnString()
         {
             // Arrange - variables, classes, mocks
-
-            // Act
             var pingService = new NetworkService();
 
+            // Act
+            var result = pingService.SendPing();
+
             // Assert
+            result.Should().NotBeNullOrWhiteSpace();
+            result.Should().Be("Success: Ping sent!");
+            result.Should().Contain("Success", Exactly.Once());
         }
     }
 }
