@@ -17,7 +17,7 @@ Link: <https://youtu.be/aq3IbO0RwAQ>
   - [x] Inline Data
 - [ ] Testing Objects, IEnumberable & Dates
   - [x] Intro
-  - [ ] System Under Test
+  - [x] System Under Test
   - [ ] Date Time
   - [ ] Test Date
   - [ ] Testing an Object
