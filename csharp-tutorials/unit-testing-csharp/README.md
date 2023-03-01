@@ -26,7 +26,7 @@ Link: <https://youtu.be/aq3IbO0RwAQ>
   - [x] Type Check
   - [x] Debugging
 - [x] Mocking Explained Simply [FakeItEasy]
-- [ ] MVC Controllers
+- [x] MVC Controllers
 - [ ] MVC Entity Framework
   - [ ] Intro
   - [ ] Building the Repository
