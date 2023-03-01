@@ -15,7 +15,7 @@ Link: <https://youtu.be/aq3IbO0RwAQ>
   - [x] XUnit
   - [x] Fluent Assertions
   - [x] Inline Data
-- [x] Testing Objects, IEnumberable & Dates
+- [x] Testing Objects, IEnumerable & Dates
   - [x] Intro
   - [x] System Under Test
   - [x] Date Time
@@ -25,7 +25,7 @@ Link: <https://youtu.be/aq3IbO0RwAQ>
   - [x] Ping Objects
   - [x] Type Check
   - [x] Debugging
-- [ ] Mocking Explained Simply [FakeItEasy]
+- [x] Mocking Explained Simply [FakeItEasy]
 - [ ] MVC Controllers
 - [ ] MVC Entity Framework
   - [ ] Intro
