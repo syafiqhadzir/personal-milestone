@@ -42,7 +42,7 @@ Link: <https://youtu.be/aq3IbO0RwAQ>
   - [x] Why Mock?
   - [x] Adding Repository
   - [x] Fake Controller
-  - [ ] Return
+  - [x] Return
   - [ ] Fake
   - [ ] Mock
   - [ ] New Controller
