@@ -47,7 +47,7 @@ Link: <https://youtu.be/aq3IbO0RwAQ>
   - [x] Mock
   - [x] New Controller
   - [x] Inline Theory
-  - [ ] Outro
+  - [x] Outro
 - [ ] Web API Entity Framework
   - [ ] Intro
   - [ ] Database Context
