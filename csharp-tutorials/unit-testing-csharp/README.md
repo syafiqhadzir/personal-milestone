@@ -48,7 +48,7 @@ Link: <https://youtu.be/aq3IbO0RwAQ>
   - [x] New Controller
   - [x] Inline Theory
   - [x] Outro
-- [ ] Web API Entity Framework
+- [x] Web API Entity Framework
   - [x] Intro
   - [x] Database Context
   - [x] In Memory
