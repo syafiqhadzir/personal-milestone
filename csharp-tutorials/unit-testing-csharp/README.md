@@ -50,6 +50,6 @@ Link: <https://youtu.be/aq3IbO0RwAQ>
   - [x] Outro
 - [ ] Web API Entity Framework
   - [x] Intro
-  - [ ] Database Context
+  - [x] Database Context
   - [ ] In Memory
   - [ ] Testing
