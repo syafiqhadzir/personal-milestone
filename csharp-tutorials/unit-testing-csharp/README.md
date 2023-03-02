@@ -44,7 +44,7 @@ Link: <https://youtu.be/aq3IbO0RwAQ>
   - [x] Fake Controller
   - [x] Return
   - [x] Fake
-  - [ ] Mock
+  - [x] Mock
   - [ ] New Controller
   - [ ] Inline Theory
   - [ ] Outro
