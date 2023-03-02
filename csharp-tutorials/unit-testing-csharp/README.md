@@ -27,7 +27,7 @@ Link: <https://youtu.be/aq3IbO0RwAQ>
   - [x] Debugging
 - [x] Mocking Explained Simply [FakeItEasy]
 - [x] MVC Controllers
-- [ ] MVC Entity Framework
+- [x] MVC Entity Framework
   - [x] Intro
   - [x] Building the Repository
   - [x] Database Context
