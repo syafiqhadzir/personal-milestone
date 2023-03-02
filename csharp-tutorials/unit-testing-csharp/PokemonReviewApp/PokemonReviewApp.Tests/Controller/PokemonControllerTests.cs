@@ -6,11 +6,7 @@ using PokemonReviewApp.Controllers;
 using PokemonReviewApp.Dto;
 using PokemonReviewApp.Interfaces;
 using PokemonReviewApp.Models;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Xunit;
 
 namespace PokemonReviewApp.Tests.Controller
@@ -20,6 +16,7 @@ namespace PokemonReviewApp.Tests.Controller
         private readonly IPokemonRepository _pokemonRepository;
         private readonly IReviewRepository _reviewRepository;
         private readonly IMapper _mapper;
+
         public PokemonControllerTests()
         {
             _pokemonRepository = A.Fake<IPokemonRepository>();

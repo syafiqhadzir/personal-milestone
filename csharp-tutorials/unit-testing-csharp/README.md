@@ -41,7 +41,7 @@ Link: <https://youtu.be/aq3IbO0RwAQ>
   - [x] Testing Controllers
   - [x] Why Mock?
   - [x] Adding Repository
-  - [ ] Fake Controller
+  - [x] Fake Controller
   - [ ] Return
   - [ ] Fake
   - [ ] Mock

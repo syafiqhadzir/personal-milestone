@@ -1,13 +1,10 @@
 ﻿using FluentAssertions;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.InMemory;
 using PokemonReviewApp.Data;
 using PokemonReviewApp.Models;
 using PokemonReviewApp.Repository;
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 using Xunit;
 
@@ -15,7 +12,6 @@ namespace PokemonReviewApp.Tests.Repository
 {
     public class PokemonRepositoryTests
     {
-
         private async Task<DataContext> GetDatabaseContext()
         {
             var options = new DbContextOptionsBuilder<DataContext>()
@@ -51,6 +47,7 @@ namespace PokemonReviewApp.Tests.Repository
             }
             return databaseContext;
         }
+
         [Fact]
         public async void PokemonRepository_GetPokemon_ReturnsPokemon()
         {
