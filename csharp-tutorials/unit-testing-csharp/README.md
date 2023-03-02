@@ -29,7 +29,7 @@ Link: <https://youtu.be/aq3IbO0RwAQ>
 - [x] MVC Controllers
 - [ ] MVC Entity Framework
   - [x] Intro
-  - [ ] Building the Repository
+  - [x] Building the Repository
   - [ ] Database Context
   - [ ] Code
   - [ ] Demo
