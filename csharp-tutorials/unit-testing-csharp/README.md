@@ -51,5 +51,5 @@ Link: <https://youtu.be/aq3IbO0RwAQ>
 - [ ] Web API Entity Framework
   - [x] Intro
   - [x] Database Context
-  - [ ] In Memory
-  - [ ] Testing
+  - [x] In Memory
+  - [x] Testing
