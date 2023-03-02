@@ -43,7 +43,7 @@ Link: <https://youtu.be/aq3IbO0RwAQ>
   - [x] Adding Repository
   - [x] Fake Controller
   - [x] Return
-  - [ ] Fake
+  - [x] Fake
   - [ ] Mock
   - [ ] New Controller
   - [ ] Inline Theory
