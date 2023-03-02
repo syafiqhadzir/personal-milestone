@@ -30,7 +30,7 @@ Link: <https://youtu.be/aq3IbO0RwAQ>
 - [ ] MVC Entity Framework
   - [x] Intro
   - [x] Building the Repository
-  - [ ] Database Context
+  - [x] Database Context
   - [ ] Code
   - [ ] Demo
 - [ ] Web API Controllers
