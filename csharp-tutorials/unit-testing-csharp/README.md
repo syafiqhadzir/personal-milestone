@@ -32,7 +32,7 @@ Link: <https://youtu.be/aq3IbO0RwAQ>
   - [x] Building the Repository
   - [x] Database Context
   - [x] Code
-  - [ ] Demo
+  - [x] Demo
 - [ ] Web API Controllers
   - [ ] Intro
   - [ ] Project Setup
