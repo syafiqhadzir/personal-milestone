@@ -38,7 +38,7 @@ Link: <https://youtu.be/aq3IbO0RwAQ>
   - [x] Project Setup
   - [x] Mocking Framework
   - [x] Fluent Assertions
-  - [ ] Testing Controllers
+  - [x] Testing Controllers
   - [ ] Why Mock?
   - [ ] Adding Repository
   - [ ] Fake Controller
