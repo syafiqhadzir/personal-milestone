@@ -40,7 +40,7 @@ Link: <https://youtu.be/aq3IbO0RwAQ>
   - [x] Fluent Assertions
   - [x] Testing Controllers
   - [x] Why Mock?
-  - [ ] Adding Repository
+  - [x] Adding Repository
   - [ ] Fake Controller
   - [ ] Return
   - [ ] Fake
