@@ -1,6 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
-
-namespace PokemonReviewApp.Models
+﻿namespace PokemonReviewApp.Models
 {
     public class Pokemon
     {
