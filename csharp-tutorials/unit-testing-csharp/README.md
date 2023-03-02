@@ -45,7 +45,7 @@ Link: <https://youtu.be/aq3IbO0RwAQ>
   - [x] Return
   - [x] Fake
   - [x] Mock
-  - [ ] New Controller
+  - [x] New Controller
   - [ ] Inline Theory
   - [ ] Outro
 - [ ] Web API Entity Framework
