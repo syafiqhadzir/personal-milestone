@@ -34,7 +34,7 @@ Link: <https://youtu.be/aq3IbO0RwAQ>
   - [x] Code
   - [x] Demo
 - [ ] Web API Controllers
-  - [ ] Intro
+  - [x] Intro
   - [ ] Project Setup
   - [ ] Mocking Framework
   - [ ] Fluent Assertions
