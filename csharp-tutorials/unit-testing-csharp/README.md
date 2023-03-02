@@ -49,7 +49,7 @@ Link: <https://youtu.be/aq3IbO0RwAQ>
   - [x] Inline Theory
   - [x] Outro
 - [ ] Web API Entity Framework
-  - [ ] Intro
+  - [x] Intro
   - [ ] Database Context
   - [ ] In Memory
   - [ ] Testing
