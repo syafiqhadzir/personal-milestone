@@ -7,7 +7,7 @@ Link: https://www.youtube.com/playlist?list=PLeD0-5Hw0ZJ_GlY21kfzfQD-N17i8pdTS
 ### Milestones
 
 - [x] 1. Getting Started
-- [ ] 2. Entity, Repository, Controller (GET)
+- [x] 2. Entity, Repository, Controller (GET)
 - [ ] 3. Dependency Injection, DTOs
 - [ ] 4. POST, PUT, DELETE
 - [ ] 5. Persisting entities with MongoDB
