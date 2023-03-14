@@ -16,12 +16,9 @@ namespace netcore_api_tutorial.Controllers
          * - The ControllerBase class provides the basic functionality for handling HTTP requests such as "access to underlying HTTP context, request, response and URL".
          */
 
-        private readonly InMemItemsRepository repository;
+        private readonly IItemsRepository repository;
 
-        public ItemsController()
-        {
-            repository = new InMemItemsRepository();
-        }
+        public ItemsController(IItemsRepository repository) => this.repository = repository;
 
         // GET: /items
         [HttpGet]

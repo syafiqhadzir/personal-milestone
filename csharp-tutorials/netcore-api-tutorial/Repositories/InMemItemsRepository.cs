@@ -2,7 +2,8 @@
 
 namespace netcore_api_tutorial.Repositories
 {
-    public class InMemItemsRepository
+
+    public class InMemItemsRepository : IItemsRepository
     {
         private readonly List<Item> items = new()
         {
@@ -18,11 +19,13 @@ namespace netcore_api_tutorial.Repositories
 
         public Item GetItem(Guid id)
         {
-            return items.Where(item => item.Id == id).SingleOrDefault();
+            return items.SingleOrDefault(item => item.Id == id);
 
             /* # Simplified LINQ Expression
              * example:-
              *    return items.SingleOrDefault(item => item.Id == id);
+             * original:-
+             *    items.Where(item => item.Id == id).SingleOrDefault();
              */
         }
     }
