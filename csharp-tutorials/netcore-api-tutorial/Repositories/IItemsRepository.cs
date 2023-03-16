@@ -4,8 +4,7 @@ namespace netcore_api_tutorial.Repositories
 {
     public interface IItemsRepository
     {
-        Item GetItem(int id);
-
+        Item GetItem(Guid id);
         IEnumerable<Item> GetItems();
     }
 }

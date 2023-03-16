@@ -13,7 +13,7 @@ Link: https://www.youtube.com/playlist?list=PLeD0-5Hw0ZJ_GlY21kfzfQD-N17i8pdTS
   - [x] Overview
   - [x] Dependency Injection
   - [x] Service Container
-  - [ ] DTOs
+  - [x] DTOs
 - [ ] 4. POST, PUT, DELETE
 - [ ] 5. Persisting entities with MongoDB
 - [ ] 6. Tasks, Async and Await

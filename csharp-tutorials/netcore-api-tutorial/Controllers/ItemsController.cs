@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using netcore_api_tutorial.Dtos;
 using netcore_api_tutorial.Entities;
 using netcore_api_tutorial.Repositories;
 
@@ -22,15 +23,16 @@ namespace netcore_api_tutorial.Controllers
 
         // GET: /items
         [HttpGet]
-        public IEnumerable<Item> GetItems()
+        public IEnumerable<ItemDto> GetItems()
         {
-            var items = repository.GetItems();
+            var items = repository.GetItems().Select(item => item.AsDto());
+
             return items;
         }
 
         // GET: /items/{id}
         [HttpGet("{id}")]
-        public ActionResult<Item> GetItem(Guid id)
+        public ActionResult<ItemDto> GetItem(Guid id)
         {
             var item = repository.GetItem(id);
 
@@ -39,7 +41,7 @@ namespace netcore_api_tutorial.Controllers
                 return NotFound();
             }
 
-            return item;
+            return item.AsDto();
         }
     }
 }
