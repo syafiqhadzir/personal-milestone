@@ -16,6 +16,27 @@ Link: https://www.youtube.com/playlist?list=PLeD0-5Hw0ZJ_GlY21kfzfQD-N17i8pdTS
   - [x] DTOs
 - [x] 4. POST, PUT, DELETE
 - [ ] 5. Persisting entities with MongoDB
+  - [x] Introduction
+  - [ ] Agenda
+  - [ ] Scenario
+  - [ ] Postman
+  - [ ] Repository
+  - [ ] MongoDB Client
+  - [ ] MongoDB Collection
+  - [ ] Create Item
+  - [ ] Docker Image
+  - [ ] MongoDB Settings
+  - [ ] MongoDB Settings Class
+  - [ ] Connection String
+  - [ ] Registration
+  - [ ] Testing
+  - [ ] MongoDB Extension
+  - [ ] Get Items
+  - [ ] Add Items
+  - [ ] Filter
+  - [ ] Update Item
+  - [ ] Delete Item
+  - [ ] Conclusion
 - [ ] 6. Tasks, Async and Await
 - [ ] 7. Secrets and Health Checks
 - [ ] 8. Docker
