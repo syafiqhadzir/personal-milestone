@@ -20,7 +20,7 @@ Link: https://www.youtube.com/playlist?list=PLeD0-5Hw0ZJ_GlY21kfzfQD-N17i8pdTS
   - [x] Agenda
   - [x] Scenario
   - [x] Postman
-  - [ ] Repository
+  - [x] Repository
   - [ ] MongoDB Client
   - [ ] MongoDB Collection
   - [ ] Create Item
