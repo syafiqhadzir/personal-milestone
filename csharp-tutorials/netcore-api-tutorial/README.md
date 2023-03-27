@@ -17,7 +17,7 @@ Link: https://www.youtube.com/playlist?list=PLeD0-5Hw0ZJ_GlY21kfzfQD-N17i8pdTS
 - [x] 4. POST, PUT, DELETE
 - [ ] 5. Persisting entities with MongoDB
   - [x] Introduction
-  - [ ] Agenda
+  - [x] Agenda
   - [ ] Scenario
   - [ ] Postman
   - [ ] Repository
