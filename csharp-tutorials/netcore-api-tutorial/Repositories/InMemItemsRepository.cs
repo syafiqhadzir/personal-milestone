@@ -2,7 +2,6 @@
 
 namespace netcore_api_tutorial.Repositories
 {
-
     public class InMemItemsRepository : IItemsRepository
     {
         private readonly List<Item> items = new()
@@ -12,21 +11,29 @@ namespace netcore_api_tutorial.Repositories
             new Item { Id=Guid.NewGuid(), Name="Bronze Shield", Price=18, CreateDate=DateTimeOffset.UtcNow }
         };
 
-        public IEnumerable<Item> GetItems()
+        public IEnumerable<Item> GetItems() => items;
+
+        public Item GetItem(Guid id) => items.SingleOrDefault(item => item.Id == id);
+
+        /* # Simplified LINQ Expression
+         * example:-
+         *    return items.SingleOrDefault(item => item.Id == id);
+         * original:-
+         *    items.Where(item => item.Id == id).SingleOrDefault();
+         */
+
+        public void CreateItem(Item item) => items.Add(item);
+
+        public void UpdateItem(Item item)
         {
-            return items;
+            var index = items.FindIndex(existingItem => existingItem.Id == item.Id);
+            items[index] = item;
         }
 
-        public Item GetItem(Guid id)
+        public void DeleteItem(Guid id)
         {
-            return items.SingleOrDefault(item => item.Id == id);
-
-            /* # Simplified LINQ Expression
-             * example:-
-             *    return items.SingleOrDefault(item => item.Id == id);
-             * original:-
-             *    items.Where(item => item.Id == id).SingleOrDefault();
-             */
+            var index = items.FindIndex(existingItem => existingItem.Id == id);
+            items.RemoveAt(index);
         }
     }
 }

@@ -15,6 +15,5 @@ namespace netcore_api_tutorial
                 CreatedDate = item.CreateDate
             };
         }
-
     }
 }
