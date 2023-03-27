@@ -21,7 +21,7 @@ Link: https://www.youtube.com/playlist?list=PLeD0-5Hw0ZJ_GlY21kfzfQD-N17i8pdTS
   - [x] Scenario
   - [x] Postman
   - [x] Repository
-  - [ ] MongoDB Client
+  - [x] MongoDB Client
   - [ ] MongoDB Collection
   - [ ] Create Item
   - [ ] Docker Image
