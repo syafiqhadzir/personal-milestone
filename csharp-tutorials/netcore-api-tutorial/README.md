@@ -19,7 +19,7 @@ Link: https://www.youtube.com/playlist?list=PLeD0-5Hw0ZJ_GlY21kfzfQD-N17i8pdTS
   - [x] Introduction
   - [x] Agenda
   - [x] Scenario
-  - [ ] Postman
+  - [x] Postman
   - [ ] Repository
   - [ ] MongoDB Client
   - [ ] MongoDB Collection
