@@ -22,7 +22,7 @@ Link: https://www.youtube.com/playlist?list=PLeD0-5Hw0ZJ_GlY21kfzfQD-N17i8pdTS
   - [x] Postman
   - [x] Repository
   - [x] MongoDB Client
-  - [ ] MongoDB Collection
+  - [x] MongoDB Collection
   - [ ] Create Item
   - [ ] Docker Image
   - [ ] MongoDB Settings
