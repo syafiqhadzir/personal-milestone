@@ -25,7 +25,7 @@ Link: <https://www.youtube.com/playlist?list=PLeD0-5Hw0ZJ_GlY21kfzfQD-N17i8pdTS>
   - [x] MongoDB Collection
   - [x] Create Item
   - [x] Docker Image
-  - [ ] MongoDB Settings
+  - [x] MongoDB Settings
   - [ ] MongoDB Settings Class
   - [ ] Connection String
   - [ ] Registration
