@@ -10,14 +10,15 @@ namespace netcore_api_tutorial.Repositories
 
         private readonly IMongoCollection<Item> itemsCollection;
 
-        public MongoDbItemsRepository(IMongoClient mongoClient) {
+        public MongoDbItemsRepository(IMongoClient mongoClient)
+        {
             IMongoDatabase database = mongoClient.GetDatabase(databaseName);
             itemsCollection = database.GetCollection<Item>(collectionName);
         }
 
         public void CreateItem(Item item)
         {
-            throw new NotImplementedException();
+            itemsCollection.InsertOne(item);
         }
 
         public void DeleteItem(Guid id)

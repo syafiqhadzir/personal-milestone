@@ -2,7 +2,7 @@
 
 .Net 5 REST API Tutorial
 
-Link: https://www.youtube.com/playlist?list=PLeD0-5Hw0ZJ_GlY21kfzfQD-N17i8pdTS
+Link: <https://www.youtube.com/playlist?list=PLeD0-5Hw0ZJ_GlY21kfzfQD-N17i8pdTS>
 
 ### Milestones
 
@@ -23,7 +23,7 @@ Link: https://www.youtube.com/playlist?list=PLeD0-5Hw0ZJ_GlY21kfzfQD-N17i8pdTS
   - [x] Repository
   - [x] MongoDB Client
   - [x] MongoDB Collection
-  - [ ] Create Item
+  - [x] Create Item
   - [ ] Docker Image
   - [ ] MongoDB Settings
   - [ ] MongoDB Settings Class
