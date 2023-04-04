@@ -8,7 +8,7 @@ Link: <https://www.youtube.com/watch?v=QmoCAjYDYSI>
 
 - [x] Welcome to course
 - [x] Prerequisites
-- [ ] Development tools
+- [x] Development tools
 - [ ] Create a new razor pages project
 - [ ] Our first run
 - [ ] Explore the solution explorer
