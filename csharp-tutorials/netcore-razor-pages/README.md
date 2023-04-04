@@ -9,7 +9,7 @@ Link: <https://www.youtube.com/watch?v=QmoCAjYDYSI>
 - [x] Welcome to course
 - [x] Prerequisites
 - [x] Development tools
-- [ ] Create a new razor pages project
+- [x] Create a new razor pages project
 - [ ] Our first run
 - [ ] Explore the solution explorer
 - [ ] launchSetting.json
