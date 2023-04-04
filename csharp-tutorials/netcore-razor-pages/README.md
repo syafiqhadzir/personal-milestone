@@ -7,7 +7,7 @@ Link: <https://www.youtube.com/watch?v=QmoCAjYDYSI>
 ### Milestones
 
 - [x] Welcome to course
-- [ ] Prerequisites
+- [x] Prerequisites
 - [ ] Development tools
 - [ ] Create a new razor pages project
 - [ ] Our first run
