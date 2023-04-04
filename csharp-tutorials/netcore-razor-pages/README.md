@@ -10,7 +10,7 @@ Link: <https://www.youtube.com/watch?v=QmoCAjYDYSI>
 - [x] Prerequisites
 - [x] Development tools
 - [x] Create a new razor pages project
-- [ ] Our first run
+- [x] Our first run
 - [ ] Explore the solution explorer
 - [ ] launchSetting.json
 - [ ] appSettings.json
