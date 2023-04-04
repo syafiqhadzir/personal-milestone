@@ -11,7 +11,7 @@ Link: <https://www.youtube.com/watch?v=QmoCAjYDYSI>
 - [x] Development tools
 - [x] Create a new razor pages project
 - [x] Our first run
-- [ ] Explore the solution explorer
+- [x] Explore the solution explorer
 - [ ] launchSetting.json
 - [ ] appSettings.json
 - [ ] wwwroot folder
