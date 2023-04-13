@@ -14,7 +14,7 @@ Link: <https://www.youtube.com/watch?v=QmoCAjYDYSI>
 - [x] Explore the solution explorer
 - [x] launchSetting.json
 - [x] appSettings.json
-- [ ] wwwroot folder
+- [x] wwwroot folder
 - [ ] Program.cs
 - [ ] Routing
 - [ ] Page,PageModel and page handlers OnGet(),OnPost()
