@@ -13,7 +13,7 @@ Link: <https://www.youtube.com/watch?v=QmoCAjYDYSI>
 - [x] Our first run
 - [x] Explore the solution explorer
 - [x] launchSetting.json
-- [ ] appSettings.json
+- [x] appSettings.json
 - [ ] wwwroot folder
 - [ ] Program.cs
 - [ ] Routing
