@@ -12,7 +12,7 @@ Link: <https://www.youtube.com/watch?v=QmoCAjYDYSI>
 - [x] Create a new razor pages project
 - [x] Our first run
 - [x] Explore the solution explorer
-- [ ] launchSetting.json
+- [x] launchSetting.json
 - [ ] appSettings.json
 - [ ] wwwroot folder
 - [ ] Program.cs
