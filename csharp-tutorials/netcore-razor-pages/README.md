@@ -19,7 +19,7 @@ Link: <https://www.youtube.com/watch?v=QmoCAjYDYSI>
 - [x] Routing
 - [x] Page, PageModel and page handlers OnGet(), OnPost()
 - [x] Retrieve data from appSetting.json and Depepndency Injection
-- [ ] Removing all the boilerplate files
+- [x] Removing all the boilerplate files
 - [ ] _ViewImports.cshtml
 - [ ] Resuming the boilerplate cleanup
 - [ ] Create new Index page
