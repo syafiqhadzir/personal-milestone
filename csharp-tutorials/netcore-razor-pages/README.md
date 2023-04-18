@@ -15,7 +15,7 @@ Link: <https://www.youtube.com/watch?v=QmoCAjYDYSI>
 - [x] launchSetting.json
 - [x] appSettings.json
 - [x] wwwroot folder
-- [ ] Program.cs
+- [x] Program.cs
 - [ ] Routing
 - [ ] Page,PageModel and page handlers OnGet(),OnPost()
 - [ ] Retrieve data from appSetting.json and Depepndency Injection
