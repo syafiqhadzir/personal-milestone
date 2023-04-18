@@ -17,7 +17,7 @@ Link: <https://www.youtube.com/watch?v=QmoCAjYDYSI>
 - [x] wwwroot folder
 - [x] Program.cs
 - [x] Routing
-- [ ] Page,PageModel and page handlers OnGet(),OnPost()
+- [x] Page, PageModel and page handlers OnGet(),OnPost()
 - [ ] Retrieve data from appSetting.json and Depepndency Injection
 - [ ] Removing all the boilerplate files
 - [ ] _ViewImports.cshtml
