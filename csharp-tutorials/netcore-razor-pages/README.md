@@ -16,7 +16,7 @@ Link: <https://www.youtube.com/watch?v=QmoCAjYDYSI>
 - [x] appSettings.json
 - [x] wwwroot folder
 - [x] Program.cs
-- [ ] Routing
+- [x] Routing
 - [ ] Page,PageModel and page handlers OnGet(),OnPost()
 - [ ] Retrieve data from appSetting.json and Depepndency Injection
 - [ ] Removing all the boilerplate files
