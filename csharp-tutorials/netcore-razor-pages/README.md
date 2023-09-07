@@ -22,8 +22,8 @@ Link: <https://www.youtube.com/watch?v=QmoCAjYDYSI>
 - [x] Removing all the boilerplate files
 - [x] _ViewImports.cshtml
 - [x] Resuming the boilerplate cleanup
-- [ ] Create new Index page
-- [ ] Adding bootstrap design to index
+- [x] Create new Index page
+- [x] Adding bootstrap design to index
 - [ ] Using bootswatch themes
 - [ ] Link navigations with anchor tag helpers
 - [ ] Need of layout
