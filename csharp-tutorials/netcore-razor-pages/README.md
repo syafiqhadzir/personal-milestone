@@ -28,8 +28,8 @@ Link: <https://www.youtube.com/watch?v=QmoCAjYDYSI>
 - [x] Link navigations with anchor tag helpers
 - [x] Need of layout
 - [x] Create a layout page
-- [ ] _ViewStart.cshtml
-- [ ] PartialView
+- [x] _ViewStart.cshtml
+- [x] PartialView
 - [ ] Designing basic index page
 - [ ] Category creation page
 - [ ] Person model and validation
