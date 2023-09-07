@@ -20,7 +20,7 @@ Link: <https://www.youtube.com/watch?v=QmoCAjYDYSI>
 - [x] Page, PageModel and page handlers OnGet(), OnPost()
 - [x] Retrieve data from appSetting.json and Depepndency Injection
 - [x] Removing all the boilerplate files
-- [ ] _ViewImports.cshtml
+- [x] _ViewImports.cshtml
 - [ ] Resuming the boilerplate cleanup
 - [ ] Create new Index page
 - [ ] Adding bootstrap design to index
