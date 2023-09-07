@@ -26,7 +26,7 @@ Link: <https://www.youtube.com/watch?v=QmoCAjYDYSI>
 - [x] Adding bootstrap design to index
 - [x] Using bootswatch themes
 - [x] Link navigations with anchor tag helpers
-- [ ] Need of layout
+- [x] Need of layout
 - [ ] Create a layout page
 - [ ] _ViewStart.cshtml
 - [ ] PartialView
