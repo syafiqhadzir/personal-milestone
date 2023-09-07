@@ -24,7 +24,7 @@ Link: <https://www.youtube.com/watch?v=QmoCAjYDYSI>
 - [x] Resuming the boilerplate cleanup
 - [x] Create new Index page
 - [x] Adding bootstrap design to index
-- [ ] Using bootswatch themes
+- [x] Using bootswatch themes
 - [ ] Link navigations with anchor tag helpers
 - [ ] Need of layout
 - [ ] Create a layout page
