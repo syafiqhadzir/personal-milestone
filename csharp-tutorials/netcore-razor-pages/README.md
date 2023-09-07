@@ -21,7 +21,7 @@ Link: <https://www.youtube.com/watch?v=QmoCAjYDYSI>
 - [x] Retrieve data from appSetting.json and Depepndency Injection
 - [x] Removing all the boilerplate files
 - [x] _ViewImports.cshtml
-- [ ] Resuming the boilerplate cleanup
+- [x] Resuming the boilerplate cleanup
 - [ ] Create new Index page
 - [ ] Adding bootstrap design to index
 - [ ] Using bootswatch themes
