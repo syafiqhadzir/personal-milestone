@@ -7,7 +7,7 @@ Link: https://youtu.be/6YhqQ2ZW1sc
 ### Milestones
 
 - [x] Intro
-- [ ] What is Gatsby
+- [x] What is Gatsby
 - [ ] Installing Gatsby
 - [ ] Gatsby Package
 - [ ] Running the Server
