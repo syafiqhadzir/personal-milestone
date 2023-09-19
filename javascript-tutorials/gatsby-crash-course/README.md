@@ -12,7 +12,7 @@ Link: https://youtu.be/6YhqQ2ZW1sc
 - [x] Gatsby Package
 - [x] Running the Server
 - [x] Site Title
-- [ ] Pages
+- [x] Pages
 - [ ] Blog
 - [ ] Markdown
 - [ ] Creating a second post
