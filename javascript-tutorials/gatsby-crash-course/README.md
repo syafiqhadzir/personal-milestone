@@ -11,7 +11,7 @@ Link: https://youtu.be/6YhqQ2ZW1sc
 - [x] Installing Gatsby
 - [x] Gatsby Package
 - [x] Running the Server
-- [ ] Site Title
+- [x] Site Title
 - [ ] Pages
 - [ ] Blog
 - [ ] Markdown
