@@ -13,8 +13,8 @@ Link: https://youtu.be/6YhqQ2ZW1sc
 - [x] Running the Server
 - [x] Site Title
 - [x] Pages
-- [ ] Blog
-- [ ] Markdown
+- [x] Blog
+- [x] Markdown
 - [ ] Creating a second post
 - [ ] Installing plugins
 - [ ] Configuring plugins
