@@ -10,7 +10,7 @@ Link: https://youtu.be/6YhqQ2ZW1sc
 - [x] What is Gatsby
 - [x] Installing Gatsby
 - [x] Gatsby Package
-- [ ] Running the Server
+- [x] Running the Server
 - [ ] Site Title
 - [ ] Pages
 - [ ] Blog
