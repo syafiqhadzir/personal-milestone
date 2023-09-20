@@ -16,7 +16,7 @@ Link: https://youtu.be/6YhqQ2ZW1sc
 - [x] Blog
 - [x] Markdown
 - [x] Creating a second post
-- [ ] Installing plugins
+- [x] Installing plugins
 - [ ] Configuring plugins
 - [ ] GraphQL
 - [ ] Creating a Template
