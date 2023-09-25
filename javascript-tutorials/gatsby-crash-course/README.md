@@ -18,7 +18,7 @@ Link: https://youtu.be/6YhqQ2ZW1sc
 - [x] Creating a second post
 - [x] Installing plugins
 - [x] Configuring plugins
-- [ ] GraphQL
+- [x] GraphQL
 - [ ] Creating a Template
 - [ ] Creating Pages
 - [ ] Redux
