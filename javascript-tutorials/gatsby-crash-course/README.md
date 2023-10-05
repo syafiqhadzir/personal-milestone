@@ -24,5 +24,5 @@ Link: https://youtu.be/6YhqQ2ZW1sc
 - [x] Redux
 - [x] Post Template
 - [x] Promise
-- [ ] Post
+- [x] Post
 - [ ] Deploy
