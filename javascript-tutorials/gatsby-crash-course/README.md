@@ -21,7 +21,7 @@ Link: https://youtu.be/6YhqQ2ZW1sc
 - [x] GraphQL
 - [x] Creating a Template
 - [x] Creating Pages
-- [ ] Redux
+- [x] Redux
 - [ ] Post Template
 - [ ] Promise
 - [ ] Post

@@ -7,6 +7,9 @@
 /**
  * @type {import('gatsby').GatsbyNode['createPages']}
  */
+
+const path = require('path')
+
 // exports.createPages = async ({ actions }) => {
 //   const { createPage } = actions
 //   createPage({
