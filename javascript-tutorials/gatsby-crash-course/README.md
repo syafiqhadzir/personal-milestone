@@ -22,7 +22,7 @@ Link: https://youtu.be/6YhqQ2ZW1sc
 - [x] Creating a Template
 - [x] Creating Pages
 - [x] Redux
-- [ ] Post Template
+- [x] Post Template
 - [ ] Promise
 - [ ] Post
 - [ ] Deploy
