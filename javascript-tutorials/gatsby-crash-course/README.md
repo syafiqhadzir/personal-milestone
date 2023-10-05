@@ -25,4 +25,4 @@ Link: https://youtu.be/6YhqQ2ZW1sc
 - [x] Post Template
 - [x] Promise
 - [x] Post
-- [ ] Deploy
+- [x] Deploy
