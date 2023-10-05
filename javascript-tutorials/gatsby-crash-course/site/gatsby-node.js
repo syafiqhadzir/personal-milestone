@@ -30,7 +30,17 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
       }
     }
   }
-  `)
+  `).then(res => {
+    if (res.errors) {
+      return Promise.reject(res.errors)
+    }
+    res.data.allMarkdownRemark.edges.foreach(({ node })) => {
+      createPage({
+        path: node.frontmatter.path,
+        component: postTemplate
+      })
+    }
+  })
 }
 
 // exports.createPages = async ({ actions }) => {

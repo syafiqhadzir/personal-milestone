@@ -23,6 +23,6 @@ Link: https://youtu.be/6YhqQ2ZW1sc
 - [x] Creating Pages
 - [x] Redux
 - [x] Post Template
-- [ ] Promise
+- [x] Promise
 - [ ] Post
 - [ ] Deploy
