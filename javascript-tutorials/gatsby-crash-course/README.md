@@ -20,7 +20,7 @@ Link: https://youtu.be/6YhqQ2ZW1sc
 - [x] Configuring plugins
 - [x] GraphQL
 - [x] Creating a Template
-- [ ] Creating Pages
+- [x] Creating Pages
 - [ ] Redux
 - [ ] Post Template
 - [ ] Promise
