@@ -27,7 +27,7 @@ Link: <https://www.youtube.com/watch?v=1Rs2ND1ryYc>
 - [x] Opacity/Transparency
 - [x] Gradients
 - [x] Introduction to Types of Units
-- [ ] Text Manipulation
+- [x] Text Manipulation
 - [ ] Font Size, Bolding & Style
 - [ ] Font Families
 - [ ] Including External Fonts w/ Google Fonts
