@@ -12,9 +12,9 @@
   "devDependencies": {
     "gulp-postcss": "^9.0.1",
     "gulp-sass": "^5.1.0",
-    "gulp-stylus": "^3.0.0",
-    "lost": "^9.0.1",
-    "postcss-preset-env": "^8.0.1",
-    "sass": "^1.58.3"
+    "gulp-stylus": "^3.0.1",
+    "lost": "^9.0.2",
+    "postcss-preset-env": "^9.3.0",
+    "sass": "^1.69.5"
   }
 }
