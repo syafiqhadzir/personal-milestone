@@ -12,7 +12,7 @@
   "author": "Syafiq Hadzir",
   "license": "ISC",
   "dependencies": {
-    "cypress": "^12.5.1",
-    "npm-check-updates": "^16.6.5"
+    "cypress": "^13.6.0",
+    "npm-check-updates": "^16.14.11"
   }
 }
