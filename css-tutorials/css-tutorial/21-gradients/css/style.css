@@ -1,0 +1,28 @@
+body {
+	/* background: url("https://wallpaperaccess.com/full/1395383.jpg"); */
+	background-color: linear-gradient(to bottom, rgb(204, 229, 255), rgba(204, 229, 255, 0.4))
+}
+
+#title {
+	color: rgb(186, 133, 9);
+}
+
+.subtitle {
+	color: rgb(200, 148, 30);
+}
+
+#service-image {
+	height: 400px;
+	/* Ignore this! */
+	width: 70%;
+	/* Ignore this! */
+
+	/* By colours */
+	/* background: linear-gradient(to right, red, green, steelblue, blue); */
+
+	/*By RGB Hexcolour*/
+	/* background: linear-gradient(to right, rgb(94, 255, 126), rgba(94, 255, 126, 0)); */
+	/* background: linear-gradient(160deg, rgb(94, 255, 126), rgba(94, 255, 126, 0)); */
+
+	background: radial-gradient(circle, red 20%, blue 40%, green 55%)
+}

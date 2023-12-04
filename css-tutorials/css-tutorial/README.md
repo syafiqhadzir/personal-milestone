@@ -25,7 +25,7 @@ Link: <https://www.youtube.com/watch?v=1Rs2ND1ryYc>
 - [x] Images/URL's in CSS
 - [x] Other Background Properties
 - [x] Opacity/Transparency
-- [ ] Gradients
+- [x] Gradients
 - [ ] Introduction to Types of Units
 - [ ] Text Manipulation
 - [ ] Font Size, Bolding & Style
