@@ -26,7 +26,7 @@ Link: <https://www.youtube.com/watch?v=1Rs2ND1ryYc>
 - [x] Other Background Properties
 - [x] Opacity/Transparency
 - [x] Gradients
-- [ ] Introduction to Types of Units
+- [x] Introduction to Types of Units
 - [ ] Text Manipulation
 - [ ] Font Size, Bolding & Style
 - [ ] Font Families
