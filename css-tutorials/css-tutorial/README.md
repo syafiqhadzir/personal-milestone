@@ -28,7 +28,7 @@ Link: <https://www.youtube.com/watch?v=1Rs2ND1ryYc>
 - [x] Gradients
 - [x] Introduction to Types of Units
 - [x] Text Manipulation
-- [ ] Font Size, Bolding & Style
+- [x] Font Size, Bolding & Style
 - [ ] Font Families
 - [ ] Including External Fonts w/ Google Fonts
 - [ ] Using External Fonts
