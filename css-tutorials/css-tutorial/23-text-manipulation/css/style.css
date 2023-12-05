@@ -1,31 +1,32 @@
 body {
+	/* background: url("https://wallpaperaccess.com/full/1395383.jpg"); */
 	background-color: linear-gradient(to bottom, rgb(204, 229, 255), rgba(204, 229, 255, 0.4));
-	/* font-size: 40px */
-	font-size: 2em;
+	/* text-transform: capitalize */
+	text-transform: uppercase;
+	/* text-align: center; */
 	text-align: justify
 }
 
 #title {
 	color: rgb(186, 133, 9);
-	font-weight: 400
 }
 
 .subtitle {
-	color: rgb(200, 148, 30)
+	color: rgb(200, 148, 30);
 }
 
 #service-image {
-	height: 400px;	/* Ignore this! */
-	width: 70%;		/* Ignore this! */
+	height: 400px;
+	/* Ignore this! */
+	width: 70%;
+	/* Ignore this! */
 
 	background: radial-gradient(circle, red 20%, blue 40%, green 55%)
 }
 
 .link {
 	text-decoration: underline
-}
-
-.italics{
-	/* font-style: oblique */
-	font-style: italic
+		/* text-decoration: overline  */
+		/* text-decoration: none */
+		/* text-decoration: line-through */
 }

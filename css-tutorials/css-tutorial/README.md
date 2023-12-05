@@ -29,7 +29,7 @@ Link: <https://www.youtube.com/watch?v=1Rs2ND1ryYc>
 - [x] Introduction to Types of Units
 - [x] Text Manipulation
 - [x] Font Size, Bolding & Style
-- [ ] Font Families
+- [x] Font Families
 - [ ] Including External Fonts w/ Google Fonts
 - [ ] Using External Fonts
 - [ ] The CSS Box Model
