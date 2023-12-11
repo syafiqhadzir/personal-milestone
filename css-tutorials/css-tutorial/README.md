@@ -32,7 +32,7 @@ Link: <https://www.youtube.com/watch?v=1Rs2ND1ryYc>
 - [x] Font Families
 - [x] Including External Fonts w/ Google Fonts
 - [x] Using External Fonts
-- [ ] The CSS Box Model
+- [x] The CSS Box Model
 - [ ] Changing Content Size
 - [ ] CSS Borders
 - [ ] Margin & Padding
