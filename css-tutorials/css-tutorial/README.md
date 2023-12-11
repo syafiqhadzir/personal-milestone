@@ -30,7 +30,7 @@ Link: <https://www.youtube.com/watch?v=1Rs2ND1ryYc>
 - [x] Text Manipulation
 - [x] Font Size, Bolding & Style
 - [x] Font Families
-- [ ] Including External Fonts w/ Google Fonts
+- [x] Including External Fonts w/ Google Fonts
 - [ ] Using External Fonts
 - [ ] The CSS Box Model
 - [ ] Changing Content Size

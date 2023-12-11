@@ -1,0 +1,30 @@
+body {
+	background-color: linear-gradient(to bottom, rgb(204, 229, 255), rgba(204, 229, 255, 0.4));
+	font-size: 2em;
+	text-align: justify;
+	font-family: "Arial", sans-serif
+}
+
+#title {
+	color: rgb(186, 133, 9);
+	font-weight: 400
+}
+
+.subtitle {
+	color: rgb(200, 148, 30)
+}
+
+#service-image {
+	height: 400px;	/* Ignore this! */
+	width: 70%; 	/* Ignore this! */
+
+	background: radial-gradient(circle, red 20%, blue 40%, green 55%)
+}
+
+.link {
+	text-decoration: underline
+}
+
+.italics {
+	font-style: italic
+}
