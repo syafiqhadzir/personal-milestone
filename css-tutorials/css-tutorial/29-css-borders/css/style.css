@@ -1,0 +1,40 @@
+body {
+	background-color: linear-gradient(to bottom, rgb(204, 229, 255), rgba(204, 229, 255, 0.4));
+	font-size: 1.15em;
+	text-align: justify;
+	font-family: Lato, sans-serif
+}
+
+#title {
+	color: rgb(186, 133, 9);
+	font-family: Sarabun, sans-serif
+}
+
+.subtitle {
+	color: rgb(200, 148, 30);
+	font-family: Sarabun, sans-serif
+}
+
+#service-image {
+	height: 400px;	/* Ignore this! */
+	width: 70%; 	/* Ignore this! */
+
+	background: radial-gradient(circle, red 20%, blue 40%, green 55%);
+	/* border: size style color */
+	/* border: 2px solid rgb(154, 174, 200) */
+	/* border: 10px double rgb(28, 28, 79) */
+	border: 10px double red
+}
+
+.link {
+	text-decoration: underline
+}
+
+.italics {
+	font-style: italic
+}
+
+#about-us-image {
+	height: 300px;
+	width: 60%
+}

@@ -34,7 +34,7 @@ Link: <https://www.youtube.com/watch?v=1Rs2ND1ryYc>
 - [x] Using External Fonts
 - [x] The CSS Box Model
 - [x] Changing Content Size
-- [ ] CSS Borders
+- [x] CSS Borders
 - [ ] Margin & Padding
 - [ ] Float & Display Types
 - [ ] What is Flexbox?
