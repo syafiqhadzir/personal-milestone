@@ -31,7 +31,7 @@ Link: <https://www.youtube.com/watch?v=1Rs2ND1ryYc>
 - [x] Font Size, Bolding & Style
 - [x] Font Families
 - [x] Including External Fonts w/ Google Fonts
-- [ ] Using External Fonts
+- [x] Using External Fonts
 - [ ] The CSS Box Model
 - [ ] Changing Content Size
 - [ ] CSS Borders
