@@ -33,7 +33,7 @@ Link: <https://www.youtube.com/watch?v=1Rs2ND1ryYc>
 - [x] Including External Fonts w/ Google Fonts
 - [x] Using External Fonts
 - [x] The CSS Box Model
-- [ ] Changing Content Size
+- [x] Changing Content Size
 - [ ] CSS Borders
 - [ ] Margin & Padding
 - [ ] Float & Display Types
