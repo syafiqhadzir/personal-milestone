@@ -38,7 +38,7 @@ Link: <https://www.youtube.com/watch?v=1Rs2ND1ryYc>
 - [x] Margin & Padding
 - [x] Float & Display Types
 - [x] What is Flexbox?
-- [ ] Creating a Flex Container
+- [x] Creating a Flex Container
 - [ ] Flex Direction & Wrap
 - [ ] Content Alignment
 - [ ] Flex Item Order
