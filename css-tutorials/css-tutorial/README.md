@@ -36,7 +36,7 @@ Link: <https://www.youtube.com/watch?v=1Rs2ND1ryYc>
 - [x] Changing Content Size
 - [x] CSS Borders
 - [x] Margin & Padding
-- [ ] Float & Display Types
+- [x] Float & Display Types
 - [ ] What is Flexbox?
 - [ ] Creating a Flex Container
 - [ ] Flex Direction & Wrap
