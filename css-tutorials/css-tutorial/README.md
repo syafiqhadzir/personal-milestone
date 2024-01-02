@@ -39,7 +39,7 @@ Link: <https://www.youtube.com/watch?v=1Rs2ND1ryYc>
 - [x] Float & Display Types
 - [x] What is Flexbox?
 - [x] Creating a Flex Container
-- [ ] Flex Direction & Wrap
+- [x] Flex Direction & Wrap
 - [ ] Content Alignment
 - [ ] Flex Item Order
 - [ ] Shrink, Grow, & Basis
