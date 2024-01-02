@@ -41,7 +41,7 @@ Link: <https://www.youtube.com/watch?v=1Rs2ND1ryYc>
 - [x] Creating a Flex Container
 - [x] Flex Direction & Wrap
 - [x] Content Alignment
-- [ ] Flex Item Order
+- [x] Flex Item Order
 - [ ] Shrink, Grow, & Basis
 - [ ] The 'flex' Property
 - [ ] Grid vs Flexbox
