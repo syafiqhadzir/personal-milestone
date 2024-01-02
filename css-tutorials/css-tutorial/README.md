@@ -37,7 +37,7 @@ Link: <https://www.youtube.com/watch?v=1Rs2ND1ryYc>
 - [x] CSS Borders
 - [x] Margin & Padding
 - [x] Float & Display Types
-- [ ] What is Flexbox?
+- [x] What is Flexbox?
 - [ ] Creating a Flex Container
 - [ ] Flex Direction & Wrap
 - [ ] Content Alignment
