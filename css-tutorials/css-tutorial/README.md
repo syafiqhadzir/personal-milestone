@@ -40,7 +40,7 @@ Link: <https://www.youtube.com/watch?v=1Rs2ND1ryYc>
 - [x] What is Flexbox?
 - [x] Creating a Flex Container
 - [x] Flex Direction & Wrap
-- [ ] Content Alignment
+- [x] Content Alignment
 - [ ] Flex Item Order
 - [ ] Shrink, Grow, & Basis
 - [ ] The 'flex' Property
