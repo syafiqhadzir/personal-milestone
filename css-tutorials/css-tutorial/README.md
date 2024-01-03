@@ -47,7 +47,7 @@ Link: <https://www.youtube.com/watch?v=1Rs2ND1ryYc>
 - [x] Item Alignment
 - [x] Grid vs Flexbox
 - [x] Creating a Grid
-- [ ] Template Columns & Rows
+- [x] Template Columns & Rows
 - [ ] Justify & Align Grid
 - [ ] Row & Column Gaps
 - [ ] Column & Row Lines
