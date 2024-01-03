@@ -42,7 +42,7 @@ Link: <https://www.youtube.com/watch?v=1Rs2ND1ryYc>
 - [x] Flex Direction & Wrap
 - [x] Content Alignment
 - [x] Flex Item Order
-- [ ] Shrink, Grow, & Basis
+- [x] Shrink, Grow, & Basis
 - [ ] The 'flex' Property
 - [ ] Grid vs Flexbox
 - [ ] Creating a Grid
