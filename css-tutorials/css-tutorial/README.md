@@ -46,7 +46,7 @@ Link: <https://www.youtube.com/watch?v=1Rs2ND1ryYc>
 - [x] The 'flex' Property
 - [x] Item Alignment
 - [x] Grid vs Flexbox
-- [ ] Creating a Grid
+- [x] Creating a Grid
 - [ ] Template Columns & Rows
 - [ ] Justify & Align Grid
 - [ ] Row & Column Gaps
