@@ -45,7 +45,7 @@ Link: <https://www.youtube.com/watch?v=1Rs2ND1ryYc>
 - [x] Shrink, Grow, & Basis
 - [x] The 'flex' Property
 - [x] Item Alignment
-- [ ] Grid vs Flexbox
+- [x] Grid vs Flexbox
 - [ ] Creating a Grid
 - [ ] Template Columns & Rows
 - [ ] Justify & Align Grid
