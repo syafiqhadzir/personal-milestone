@@ -43,7 +43,7 @@ Link: <https://www.youtube.com/watch?v=1Rs2ND1ryYc>
 - [x] Content Alignment
 - [x] Flex Item Order
 - [x] Shrink, Grow, & Basis
-- [ ] The 'flex' Property
+- [x] The 'flex' Property
 - [ ] Grid vs Flexbox
 - [ ] Creating a Grid
 - [ ] Template Columns & Rows
