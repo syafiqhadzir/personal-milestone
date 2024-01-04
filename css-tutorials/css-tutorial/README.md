@@ -50,7 +50,7 @@ Link: <https://www.youtube.com/watch?v=1Rs2ND1ryYc>
 - [x] Template Columns & Rows
 - [x] Justify & Align Grid
 - [x] Row & Column Gaps
-- [ ] Column & Row Lines
+- [x] Column & Row Lines
 - [ ] Grid Area
 - [ ] The Transition Property
 - [ ] Transformation Functions
