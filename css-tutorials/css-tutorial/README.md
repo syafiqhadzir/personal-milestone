@@ -51,7 +51,7 @@ Link: <https://www.youtube.com/watch?v=1Rs2ND1ryYc>
 - [x] Justify & Align Grid
 - [x] Row & Column Gaps
 - [x] Column & Row Lines
-- [ ] Grid Area
+- [x] Grid Area
 - [ ] The Transition Property
 - [ ] Transformation Functions
 - [ ] Creating Animations w/ Keyframes
