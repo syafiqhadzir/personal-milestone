@@ -7,7 +7,7 @@ Playlist: <https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz
 - [x] Introduction
 - [x] Setting Up Svelte App
 - [x] Svelte Basics
-- [ ] User Input & Data Binding
+- [x] User Input & Data Binding
 - [ ] Reactive Values
 - [ ] Loops
 - [ ] Inline Event Handlers

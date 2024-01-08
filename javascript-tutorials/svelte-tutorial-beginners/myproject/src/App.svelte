@@ -1,16 +1,22 @@
 <script>
-	let name = "Yoshi";
-	let beltColour = "black";
+	let name = "Yoshi"
+	let beltColour = "black"
 
 	const handleClick = () => {
-		beltColour = "orange";
-	};
+		beltColour = "orange"
+	}
+
+	const handleInput = (e) => {
+		beltColour = e.target.value
+	}
 </script>
 
 <main>
 	<h1>Hello {name}!</h1>
-	<p>{beltColour}, Ninjas!</p>
+	<p style="color:{beltColour}">{beltColour}, Ninjas!</p>
 	<button on:click={handleClick}>Update belt colour</button>
+	<!-- <input type="text" on:input={handleInput} value={beltColour} /> -->
+	<input type="text" bind:value={beltColour} />
 </main>
 
 <style>
