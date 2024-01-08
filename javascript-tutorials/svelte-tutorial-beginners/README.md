@@ -4,7 +4,7 @@ Playlist: <https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz
 
 ## Milestones
 
-- [ ] Introduction
+- [x] Introduction
 - [ ] Setting Up Svelte App
 - [ ] Svelte Basics
 - [ ] User Input & Data Binding
