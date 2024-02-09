@@ -9,7 +9,7 @@ Playlist: <https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz
 - [x] Svelte Basics
 - [x] User Input & Data Binding
 - [x] Reactive Values
-- [ ] Loops
+- [x] Loops
 - [ ] Inline Event Handlers
 - [ ] Conditionals
 - [ ] Components
