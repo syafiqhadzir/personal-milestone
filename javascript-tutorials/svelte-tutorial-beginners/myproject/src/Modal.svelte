@@ -12,7 +12,7 @@
     <div class="backdrop" class:promo={isPromo}>
         <div class="modal">
             <!-- <p>{message}</p> -->
-             <p>Hey there ...</p>
+            <p>Hey there ...</p>
             <slot></slot>
             <!-- <slot name="title"></slot> -->
             <button type="button" on:click|self>Close</button>
