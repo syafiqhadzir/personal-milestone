@@ -24,7 +24,7 @@ Playlist: <https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz
 - [x] Starting the Polls Project
 - [x] Header & Footer Components
 - [x] Reusable Tabs Component
-- [ ] Poll Form Component
+- [x] Poll Form Component
 - [ ] Custom Button Component
 - [ ] Custom Form Validation
 - [ ] Adding New Polls
