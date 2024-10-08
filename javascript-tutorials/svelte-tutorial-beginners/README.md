@@ -20,7 +20,7 @@ Playlist: <https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz
 - [x] Slots
 - [x] Forms (Part 1)
 - [x] Forms (Part 2)
-- [ ] Dispatching Custom Events
+- [x] Dispatching Custom Events
 - [ ] Starting the Polls Project
 - [ ] Header & Footer Components
 - [ ] Reusable Tabs Component

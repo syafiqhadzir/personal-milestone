@@ -20,12 +20,20 @@
 		console.log(e);
 	};
 
-	let num = 53;
+	// let num = 53;
+
+	const addPerson = (e) => {
+		// console.log(e.detail);
+		// people.push(e.detail);
+		const person = e.detail;
+		people = [person, ...people];
+		showModal = false;
+	};
 </script>
 
 <Modal {showModal} on:click={toggleModal}>
 	<!-- <h3>Add a New Person</h3> -->
-	<AddPersonForm />
+	<AddPersonForm on:addPerson={addPerson} />
 	<!-- <div slot="title">
 		<h3>Add a New Person</h3>
 	</div> -->
@@ -55,7 +63,7 @@
 {/if} -->
 
 <main>
-	<button on:click|once={toggleModal}>Open Modal</button>
+	<button on:click={toggleModal}>Open Modal</button>
 	{#each people as person (person.id)}
 		<div>
 			<h4>{person.name}</h4>
