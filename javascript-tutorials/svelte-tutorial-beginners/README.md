@@ -16,7 +16,7 @@ Playlist: <https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz
 - [x] CSS & Conditional Styles
 - [x] Props
 - [x] Event Forwarding
-- [ ] Event Modifiers
+- [x] Event Modifiers
 - [ ] Slots
 - [ ] Forms (Part 1)
 - [ ] Forms (Part 2)
