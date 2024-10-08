@@ -22,7 +22,7 @@ Playlist: <https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz
 - [x] Forms (Part 2)
 - [x] Dispatching Custom Events
 - [x] Starting the Polls Project
-- [ ] Header & Footer Components
+- [x] Header & Footer Components
 - [ ] Reusable Tabs Component
 - [ ] Poll Form Component
 - [ ] Custom Button Component
