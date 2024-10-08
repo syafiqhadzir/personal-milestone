@@ -1,4 +1,5 @@
 <script>
+    import Button from "../shared/Button.svelte";
     let fields = {
         question: "",
         answerA: "",
@@ -23,7 +24,7 @@
         <label for="answerB">Answer B:</label>
         <input type="text" name="answerB" id="answerB" bind:value={fields.answerB} />
     </div>
-    <button>Add Poll</button>
+    <Button type="secondary" flat={true} inverse={false}>Add Poll</Button>
 </form>
 
 <style>
@@ -33,7 +34,7 @@
         text-align: center;
     }
     .form-field {
-        margin: 180px auto;
+        margin: 18px auto;
     }
     input{
         width: 100%;

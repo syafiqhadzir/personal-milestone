@@ -25,7 +25,7 @@ Playlist: <https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz
 - [x] Header & Footer Components
 - [x] Reusable Tabs Component
 - [x] Poll Form Component
-- [ ] Custom Button Component
+- [x] Custom Button Component
 - [ ] Custom Form Validation
 - [ ] Adding New Polls
 - [ ] Poll Details Component

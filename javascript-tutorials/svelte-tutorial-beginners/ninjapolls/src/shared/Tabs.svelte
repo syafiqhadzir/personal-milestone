@@ -13,8 +13,10 @@
             <li>
                 <button
                     on:click={() => dispatch("tabChange", item)}
-                    class:active={item === activeItem}>{item}</button
+                    class:active={item === activeItem}
                 >
+                    {item}
+                </button>
             </li>
         {/each}
     </ul>
