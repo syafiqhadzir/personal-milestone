@@ -17,7 +17,7 @@ Playlist: <https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz
 - [x] Props
 - [x] Event Forwarding
 - [x] Event Modifiers
-- [ ] Slots
+- [x] Slots
 - [ ] Forms (Part 1)
 - [ ] Forms (Part 2)
 - [ ] Dispatching Custom Events

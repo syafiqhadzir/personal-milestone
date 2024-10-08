@@ -5,7 +5,7 @@
 
 	const toggleModal = () => {
 		showModal = !showModal;
-	}
+	};
 
 	let people = [
 		{ name: "Yoshi", beltColour: "black", age: 25, id: 1 },
@@ -22,7 +22,17 @@
 	let num = 53;
 </script>
 
-<Modal message="Hey, I am prop value." {showModal} on:click={toggleModal} />
+<Modal {showModal} on:click={toggleModal}>
+	<h3>Add a New Person</h3>
+	<form action="">
+		<input type="text" placeholder="Name" />
+		<input type="text" placeholder="Belt Colour" />
+		<button>Add Person</button>
+	</form>
+	<!-- <div slot="title">
+		<h3>Add a New Person</h3>
+	</div> -->
+</Modal>
 
 <!-- <main>
 	<div>
