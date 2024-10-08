@@ -10,8 +10,8 @@ Playlist: <https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz
 - [x] User Input & Data Binding
 - [x] Reactive Values
 - [x] Loops
-- [ ] Inline Event Handlers
-- [ ] Conditionals
+- [x] Inline Event Handlers
+- [x] Conditionals
 - [ ] Components
 - [ ] CSS & Conditional Styles
 - [ ] Props
