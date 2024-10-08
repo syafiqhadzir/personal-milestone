@@ -19,7 +19,7 @@ Playlist: <https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz
 - [x] Event Modifiers
 - [x] Slots
 - [x] Forms (Part 1)
-- [ ] Forms (Part 2)
+- [x] Forms (Part 2)
 - [ ] Dispatching Custom Events
 - [ ] Starting the Polls Project
 - [ ] Header & Footer Components
