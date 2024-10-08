@@ -13,7 +13,7 @@ Playlist: <https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz
 - [x] Inline Event Handlers
 - [x] Conditionals
 - [x] Components
-- [ ] CSS & Conditional Styles
+- [x] CSS & Conditional Styles
 - [ ] Props
 - [ ] Event Forwarding
 - [ ] Event Modifiers
