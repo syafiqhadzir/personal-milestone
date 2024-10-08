@@ -1,4 +1,6 @@
 <script>
+	import Modal from "./Modal.svelte";
+
 	let people = [
 		{ name: "Yoshi", beltColour: "black", age: 25, id: 1 },
 		{ name: "Mario", beltColour: "orange", age: 45, id: 2 },
@@ -13,6 +15,8 @@
 
 	let num = 53;
 </script>
+
+<Modal />
 
 <!-- <main>
 	<div>

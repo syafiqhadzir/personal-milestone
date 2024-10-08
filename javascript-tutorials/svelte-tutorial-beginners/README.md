@@ -12,7 +12,7 @@ Playlist: <https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz
 - [x] Loops
 - [x] Inline Event Handlers
 - [x] Conditionals
-- [ ] Components
+- [x] Components
 - [ ] CSS & Conditional Styles
 - [ ] Props
 - [ ] Event Forwarding
