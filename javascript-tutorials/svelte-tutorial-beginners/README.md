@@ -28,7 +28,7 @@ Playlist: <https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz
 - [x] Custom Button Component
 - [x] Custom Form Validation
 - [x] Adding New Polls
-- [ ] Poll Details Component
+- [x] Poll Details Component
 - [ ] Card Component
 - [ ] Casting Votes
 - [ ] Vote Bars
