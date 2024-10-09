@@ -1,10 +1,11 @@
 <script>
+    import PollDetails from "./PollDetails.svelte";	
     export let polls = [];
 </script>
 
 <div class="poll-list">
     {#each polls as poll (poll.id)}
-        <p>{poll.question}</p>
+        <PollDetails {poll} />
     {/each}
 </div>
 

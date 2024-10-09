@@ -29,7 +29,7 @@ Playlist: <https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz
 - [x] Custom Form Validation
 - [x] Adding New Polls
 - [x] Poll Details Component
-- [ ] Card Component
+- [x] Card Component
 - [ ] Casting Votes
 - [ ] Vote Bars
 - [ ] Introduction to Stores
