@@ -26,8 +26,8 @@ Playlist: <https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz
 - [x] Reusable Tabs Component
 - [x] Poll Form Component
 - [x] Custom Button Component
-- [ ] Custom Form Validation
-- [ ] Adding New Polls
+- [x] Custom Form Validation
+- [x] Adding New Polls
 - [ ] Poll Details Component
 - [ ] Card Component
 - [ ] Casting Votes
