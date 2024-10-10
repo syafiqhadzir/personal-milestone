@@ -7,6 +7,8 @@
 
     // reactive values
     $: totalVotes = poll.votesA + poll.votesB;
+    $: percentA = Math.floor((100 / totalVotes) * poll.votesA);
+    $: percentB = Math.floor((100 / totalVotes) * poll.votesB);
 
     // handling votes
     const handleVote = (option, id) => {
@@ -18,21 +20,13 @@
     <div class="poll">
         <h3>{poll.question}</h3>
         <p>Total votes: {totalVotes}</p>
-        <button
-            class="answer"
-            on:click={() => handleVote("a", poll.id)}
-            aria-label="Vote for answer A"
-        >
-            <div class="percent percent-a"></div>
-            <span>{poll.answerA} ({poll.votesA})</span>
+        <button type="button" class="answer" on:click={() => handleVote("a", poll.id)}>
+            <div class="percent percent-a" style="width: {percentA}%"></div>
+            <span>{poll.answerA} ({poll.votesA} votes)</span>
         </button>
-        <button
-            class="answer"
-            on:click={() => handleVote("b", poll.id)}
-            aria-label="Vote for answer B"
-        >
-            <div class="percent percent-a"></div>
-            <span>{poll.answerB} ({poll.votesB})</span>
+        <button type="button" class="answer" on:click={() => handleVote("b", poll.id)}>
+            <div class="percent percent-b" style="width: {percentB}%"></div>
+            <span>{poll.answerB} ({poll.votesB} votes)</span>
         </button>
     </div>
 </Card>
@@ -60,5 +54,21 @@
     span {
         display: inline-block;
         padding: 10px 20px;
+    }
+    .percent {
+        height: 100%;
+        position: absolute;
+        box-sizing: border-box;
+    }
+    .percent-a {
+        background: rgba(217, 27, 66, 0.2);
+        border-left: 4px solid #d91b42;
+    }
+    .percent-b {
+        background: rgba(69, 196, 150, 0.2);
+        border-left: 4px solid #45c496;
+    }
+    button {
+        border: none;
     }
 </style>
