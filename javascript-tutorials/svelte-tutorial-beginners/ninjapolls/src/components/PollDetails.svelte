@@ -1,9 +1,10 @@
 <script>
-    import { createEventDispatcher } from "svelte";
+    // import { createEventDispatcher } from "svelte";
     import Card from "../shared/Card.svelte";
+    import PollStore from "../stores/PollStore";
 
     export let poll;
-    const dispatch = createEventDispatcher();
+    // const dispatch = createEventDispatcher();
 
     // reactive values
     $: totalVotes = poll.votesA + poll.votesB;
@@ -12,7 +13,25 @@
 
     // handling votes
     const handleVote = (option, id) => {
-        dispatch("vote", { option, id });
+        // dispatch("vote", { option, id });
+        // const { option, id } = e.detail;
+
+        PollStore.update((currentPolls) => {
+            let copiedPolls = [...currentPolls];
+            let upvotedPoll = copiedPolls.find((poll) => poll.id == id);
+
+            if (option === "a") {
+                upvotedPoll.votesA++;
+            } else {
+                upvotedPoll.votesB++;
+            }
+            // simplified
+            // upvotedPoll.votesA = option === "a" ? upvotedPoll.votesA++;
+            // upvotedPoll.votesB = option === "b" ? upvotedPoll.votesB++;
+
+            // polls = copiedPolls; * we don't need this anymore
+            return copiedPolls;
+        });
     };
 </script>
 
@@ -20,11 +39,19 @@
     <div class="poll">
         <h3>{poll.question}</h3>
         <p>Total votes: {totalVotes}</p>
-        <button type="button" class="answer" on:click={() => handleVote("a", poll.id)}>
+        <button
+            type="button"
+            class="answer"
+            on:click={() => handleVote("a", poll.id)}
+        >
             <div class="percent percent-a" style="width: {percentA}%"></div>
             <span>{poll.answerA} ({poll.votesA} votes)</span>
         </button><br />
-        <button type="button" class="answer" on:click={() => handleVote("b", poll.id)}>
+        <button
+            type="button"
+            class="answer"
+            on:click={() => handleVote("b", poll.id)}
+        >
             <div class="percent percent-b" style="width: {percentB}%"></div>
             <span>{poll.answerB} ({poll.votesB} votes)</span>
         </button>

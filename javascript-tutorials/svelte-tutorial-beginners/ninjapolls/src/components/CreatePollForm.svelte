@@ -1,4 +1,5 @@
 <script>
+    import PollStore from "../stores/PollStore.js";
     import { createEventDispatcher } from "svelte";
     import Button from "../shared/Button.svelte";
 
@@ -40,9 +41,13 @@
         }
         // add new poll
         if (valid) {
-            let poll = {...fields, id: Math.random(), votesA: 0, votesB: 0};
-            dispatch('add', poll);
-            console.log('valid', fields);
+            let poll = { ...fields, id: Math.random(), votesA: 0, votesB: 0 };
+            // save poll to store
+            PollStore.update((currentPolls) => {
+                return [poll, ...currentPolls];
+            });
+            dispatch("add");
+            console.log("valid", fields);
         }
     };
 </script>
@@ -98,7 +103,7 @@
         margin: 10px auto;
         text-align: left;
     }
-    .error{
+    .error {
         font-weight: bold;
         font-size: 12px;
         color: #d91b42;
