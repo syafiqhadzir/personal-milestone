@@ -37,5 +37,5 @@ Playlist: <https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz
 - [x] Updating Store Data
 - [x] Deleting Polls
 - [x] Transition Basics
-- [ ] Tweens & Animations
+- [x] Tweens & Animations
 - [ ] Wrap Up
