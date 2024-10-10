@@ -35,7 +35,7 @@ Playlist: <https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz
 - [x] Introduction to Stores
 - [x] Lifecycle Hooks
 - [x] Updating Store Data
-- [ ] Deleting Polls
+- [x] Deleting Polls
 - [ ] Transition Basics
 - [ ] Tweens & Animations
 - [ ] Wrap Up
