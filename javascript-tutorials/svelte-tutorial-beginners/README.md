@@ -30,7 +30,7 @@ Playlist: <https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz
 - [x] Adding New Polls
 - [x] Poll Details Component
 - [x] Card Component
-- [ ] Casting Votes
+- [x] Casting Votes
 - [ ] Vote Bars
 - [ ] Introduction to Stores
 - [ ] Lifecycle Hooks
