@@ -7,8 +7,8 @@
 
     // reactive values
     $: totalVotes = poll.votesA + poll.votesB;
-    $: percentA = Math.floor((100 / totalVotes) * poll.votesA);
-    $: percentB = Math.floor((100 / totalVotes) * poll.votesB);
+    $: percentA = Math.floor((100 / totalVotes) * poll.votesA) || 0;
+    $: percentB = Math.floor((100 / totalVotes) * poll.votesB) || 0;
 
     // handling votes
     const handleVote = (option, id) => {

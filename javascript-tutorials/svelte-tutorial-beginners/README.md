@@ -32,7 +32,7 @@ Playlist: <https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz
 - [x] Card Component
 - [x] Casting Votes
 - [x] Vote Bars
-- [ ] Introduction to Stores
+- [x] Introduction to Stores
 - [ ] Lifecycle Hooks
 - [ ] Updating Store Data
 - [ ] Deleting Polls
