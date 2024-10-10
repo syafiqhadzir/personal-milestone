@@ -36,6 +36,6 @@ Playlist: <https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz
 - [x] Lifecycle Hooks
 - [x] Updating Store Data
 - [x] Deleting Polls
-- [ ] Transition Basics
+- [x] Transition Basics
 - [ ] Tweens & Animations
 - [ ] Wrap Up
