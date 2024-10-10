@@ -33,7 +33,7 @@ Playlist: <https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz
 - [x] Casting Votes
 - [x] Vote Bars
 - [x] Introduction to Stores
-- [ ] Lifecycle Hooks
+- [x] Lifecycle Hooks
 - [ ] Updating Store Data
 - [ ] Deleting Polls
 - [ ] Transition Basics
